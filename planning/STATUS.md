@@ -22,6 +22,8 @@
 
 ## NEW-SESSION BOOT PROTOCOL (for the author)
 
+**FIRST READ: `planning/HANDOFF.md` — the complete transfer package. It contains the read-order, the short list of non-negotiable rules, the boot prompt to paste, and the known gaps. Everything below is operational detail.**
+
 1. **Attach this repo** to the new chat (or re-upload the `planning/` folder + the new chapter files).
 2. Paste one line, adjusted as needed:
    > *"Read planning/MASTER_DIRECTIVE.md, planning/DECISIONS_LOG.md, planning/STATUS.md, and the Chapter N brief in planning/03_EARTH_ARC_ARCHITECTURE.md (plus planning/chapters/ for everything drafted so far). Then do: [draft Chapter N / continue / revise]."*
