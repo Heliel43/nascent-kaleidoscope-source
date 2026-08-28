@@ -12,7 +12,7 @@
 | Phase 1.5 — Transfer Pack Reconciliation | ✅ `01_TRANSFER_RECONCILIATION.md` |
 | Phase 2 — Character Synthesis | ✅ `02_CHARACTER_SYNTHESIS.md` |
 | Phase 3 — Earth Arc Architecture (22 chapters) | ✅ `03_EARTH_ARC_ARCHITECTURE.md` |
-| Phase 4 — Persona deep design (Quixote kit, Nav rules, awakening beat-map, Theseus triggers) | ✅ `04_PERSONA_INTEGRATION.md` |
+| Phase 4 — Persona deep design | ✅ `04_PERSONA_INTEGRATION.md` **(revised session 5: acceptance-grammar awakening in Kaneshiro's Bank, ch. 7 beat map; Nav dead-months rules)** |
 | Phase 5 — Character development tracker (per-chapter state deltas) | ⬜ next (can batch with 6+7) |
 | Phase 5 — Character development tracker (per-chapter state deltas) | ⬜ |
 | Phase 6 — Yaldabaoth climax beat design (ch. 17) | ⬜ |
@@ -29,32 +29,33 @@
 4. After your humanization pass: paste the final text back (or attach it) and say *"update STATUS and commit"* — the agent updates this tracker and commits.
 5. Before each new draft, the agent re-checks `DECISIONS_LOG.md` + the ledger (`03` §6) — continuity errors die there.
 
-## CHAPTER TRACKER — BOOK ONE: "WINTER"
+## CHAPTER TRACKER — BOOK ONE: "WINTER" (v2 — 23 chapters, session-5 restructure)
 
 | # | Working title | Window | Brief | Rough draft | Humanized | Posted |
 |---|---|---|---|---|---|---|
-| 1 | Winter | **May 2–10, 2016** (amended: opens on Kamoshida confession day) | v4 exists (old workspace); v4.1 treatment = `03` §7 (live-witness amendment) | ⬜ | ⬜ | ⬜ |
-| 2 | The Name | **May 10–24** (amended) | expanded brief = `03` §8 | ⬜ | ⬜ | ⬜ |
-| 3 | The Coward's Castle | May 25–Jun 5 | `03` §4 | ⬜ | ⬜ | ⬜ |
+| 1 | Winter | **May 2–10, 2016** (opens on Kamoshida confession day) | v4 exists (old workspace); v4.1 treatment = `03` §7 | ⬜ | ⬜ | ⬜ |
+| 2 | The Name | May 10–24 | `03` §8 (v2: earth-side) | ⬜ | ⬜ | ⬜ |
+| 3 | The Racket | May 25–Jun 5 | `03` §4 (first yakuza war) | ⬜ | ⬜ | ⬜ |
 | 4 | Collateral | Jun 6–17 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 5 | The Cage | Jun 18–24 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 6 | The Bank | Jun 25–Jul 9 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 7 | Rook | Jul 10–24 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 8 | High Summer | Jul 25–Aug 10 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 9 | Medjed | Aug 11–22 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 10 | The Pyramid | Aug 23–Sep 1 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 11 | Empty Seats | Sep 2–15 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 12 | Noir | Sep 16–Oct 10 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 13 | The Spaceport | Oct 11–17 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 14 | Paper Ghosts | Oct 18–31 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 15 | The Casino | Nov 1–20 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 16 | The Ship | Nov 21–Dec 17 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 17 | Silent Night | Dec 18–24 | `03` §4 + Phase 6 design (pending) | ⬜ | ⬜ | ⬜ |
-| 18 | The Quiet | Dec 25–Jan 3 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 19 | Actualization | Jan 4–9, 2017 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 20 | The Perfect Brother | Jan 10–16 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 21 | The Labyrinth | Jan 17–28 | `03` §4 | ⬜ | ⬜ | ⬜ |
-| 22 | How Many Times | Jan 29–Feb 3 | `03` §4 + Phase 7 design (pending) | ⬜ | ⬜ | ⬜ |
+| 5 | The Cage | Jun 18–24 | `03` §4 (tournament; Majima) | ⬜ | ⬜ | ⬜ |
+| 6 | The Bank of the Real | Jun 25–Jul 5 | `03` §4 (Kaneshiro ID'd earth-side) | ⬜ | ⬜ | ⬜ |
+| 7 | The Bank of Gluttony | Jul 6–9 | `03` §4 + `04` §1.2 (AWAKENING) | ⬜ | ⬜ | ⬜ |
+| 8 | Rook | Jul 10–24 | `03` §4 (induction) | ⬜ | ⬜ | ⬜ |
+| 9 | High Summer | Jul 25–Aug 10 | `03` §4 (Kiryu on-page) | ⬜ | ⬜ | ⬜ |
+| 10 | Medjed | Aug 11–22 | `03` §4 | ⬜ | ⬜ | ⬜ |
+| 11 | The Pyramid | Aug 23–Sep 1 | `03` §4 (notebook hand-off) | ⬜ | ⬜ | ⬜ |
+| 12 | Empty Seats | Sep 2–15 | `03` §4 | ⬜ | ⬜ | ⬜ |
+| 13 | Noir | Sep 16–Oct 10 | `03` §4 (two Harus → KNIGHT) | ⬜ | ⬜ | ⬜ |
+| 14 | The Spaceport | Oct 11–17 | `03` §4 (convergence theme) | ⬜ | ⬜ | ⬜ |
+| 15 | Paper Ghosts | Oct 18–31 | `03` §4 (Akechi file) | ⬜ | ⬜ | ⬜ |
+| 16 | The Casino | Nov 1–20 | `03` §4 (Ren's arrest) | ⬜ | ⬜ | ⬜ |
+| 17 | The Ship | Nov 21–Dec 17 | `03` §4 | ⬜ | ⬜ | ⬜ |
+| 18 | Silent Night | Dec 18–24 | `03` §4 + Phase 6 design (pending) | ⬜ | ⬜ | ⬜ |
+| 19 | The Quiet | Dec 25–Jan 3 | `03` §4 (confession) | ⬜ | ⬜ | ⬜ |
+| 20 | Actualization | Jan 4–9, 2017 | `03` §4 (false Subaru) | ⬜ | ⬜ | ⬜ |
+| 21 | The Perfect Brother | Jan 10–16 | `03` §4 | ⬜ | ⬜ | ⬜ |
+| 22 | The Labyrinth | Jan 17–28 | `03` §4 | ⬜ | ⬜ | ⬜ |
+| 23 | How Many Times | Jan 29–Feb 3 | `03` §4 + Phase 7 design (pending) | ⬜ | ⬜ | ⬜ |
 
 Drafts live in `planning/chapters/chNN_title.md` once they exist.
 
