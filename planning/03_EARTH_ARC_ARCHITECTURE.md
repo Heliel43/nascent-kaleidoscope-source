@@ -93,7 +93,7 @@ Format per chapter: **window — canon spine — A-plot — B-plot — C-slice �
 
 ### CH. 2 — "The Name" · May 11–24
 - **Canon spine:** Maruki arrives at Shujin (canon-motivated); Madarame's Museum unlock May 16 (background radio).
-- **A:** the security-company lead pays out — the **man with the Tojo pin** gets a name → Nav: name + Millennium Tower + distortion word → **HIT** → first entry into his own first Palace → overwhelmed, cornered by the target's cognition of "the snooping kid" → the verdict that everyone believes ("your brother is dead, boy") → refusal → **DON QUIXOTE AWAKENING** (mid-May, pack-locked; his own palace, not Kamoshida's). Velvet Room flash: a blue door made of bookshelves (full design, Phase 4).
+- **A:** the security-company lead pays out — the **man with the Tojo pin** gets a name → Nav: name + Millennium Tower + distortion word → **HIT** → first entry into his own first Palace → overwhelmed, cornered by the target's cognition of "the snooping kid" → the verdict that everyone believes ("your brother is dead, boy") → refusal → **DON QUIXOTE AWAKENING** (mid-May, pack-locked; his own palace, not Kamoshida's). *No Velvet Room — locked ruling: the awakening is pure rebellion, his contract is with nobody.*
 - **B:** Iwai introduction — the airsoft shop, the ex-Tojo border-crossing, PDR's recognition mechanic reversed (Iwai clocks the kid *asking wrong questions* and can't argue a griever out of grief, so he sells him gear instead).
 - **C:** karaoke obligation #1 on-page (Mama Shizu's price for the family rate); Boss the cat's first on-page contempt; Maruki corridor beat (one line of genuine kindness Haru deflects).
 - **Donors:** Ace ch. 5 "Awakening" (outsider-awakening mechanics), PDR ch. 4 "Metaverse 101" (on-ramp discipline), DTES cognition rules, PDR Iwai scene (l. 15440+).
@@ -333,7 +333,7 @@ The pack's ch. 1 scene list survives intact except where struck below. The autho
 
 ## 10. HANDOFFS
 
-- **Phase 4 (Persona 5 Royal Integration — deep design):** Velvet Room form for Haru (banked proposal: the library of romances — decide), Quixote kit details (the washbasin helm, Rocinante-shade, lance, windmill-sail control proposal), the Nav's behavior rules at the edge cases, the awakening scene's full beat map (ch. 2), Theseus trigger conditions for Book II, Akechi module escalation gate.
+- **Phase 4 (Persona 5 Royal Integration — deep design):** ~~Velvet Room form for Haru~~ **EXCLUDED (locked, session 3: no guest status, no contract scenes; at most offscreen observation of the anchor anomaly in Book II — Phase 8 ruling)**. Quixote kit details (the washbasin helm, Rocinante-shade, lance, windmill-sail control proposal), the Nav's behavior rules at the edge cases, the awakening scene's full beat map (ch. 2), Theseus trigger conditions for Book II, Akechi module escalation gate.
 - **Phase 5 (Earth Arc Character Development):** the tracker doc built from this architecture (per-chapter state deltas for §12 of Phase 2's knowledge table).
 - **Phase 6 (Yaldabaoth Climax):** ch. 17's beat-level design (staging donors already flagged; the anchor-slip's single showing).
 - **Phase 7 (Transition):** the crossing chapter's final choreography + the sting placement + post-crossing Earth policy (deferred material's shape).

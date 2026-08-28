@@ -51,6 +51,10 @@
 - [RECOMMEND] "He's not dead, he's LOST — we find him" as ch. 22 end-sting (Phase 7 final call).
 - [CANON-VERIFIED anchors] Mementos opens May 7, 2016 (= ch. 1's first day); Maruki hired post-Kamoshida; Oct 3 first Maruki-palace glimpse; Kaneshiro window Jun 19–Jul 9; Medjed Aug 21–22; Ren's arrest Nov 20; election Dec 18; Yaldabaoth Dec 24; false reality ~Jan 2; Sumire rescue Jan 9; calling card Feb 2 / reversion Feb 3. (Sources in `03_EARTH_ARC_ARCHITECTURE.md` §11.)
 
+## LOCKED — author, session 3 (2026-08-28)
+- [LOCKED] **Velvet Room exclusion:** Haru is NOT a wild card and NOT a Velvet Room guest. No contract, no Igor/Lavenza guest scenes, no "blue door" beats. Don Quixote awakens by pure rebellion-awakening, exactly like the Thieves. Fool arcana (pack) stands but does not imply wild card. The Velvet Room may at most observe the anchor anomaly offscreen (Book II / Phase 8 question). Supersedes: Phase 2 §11 Lavenza line; Phase 3 ch. 2 "blue door" flash; the banked library-of-romances proposal.
+- [LOCKED] **Production system (author's design, confirmed):** finish all planning phases (4–7 remaining for Book One), then produce ROUGH DRAFTS chapter by chapter, each with a writing guide (Humanization Notes per pack §5); the author rewrites with human touch and continues; **fresh chat per chapter/batch** to avoid context degradation and token bloat. All state lives in repo files (esp. `DECISIONS_LOG.md` + `STATUS.md`), never in chat history. Boot protocol: `planning/STATUS.md`.
+
 ## OPEN — author questions outstanding
 - [OPEN Q1] Death-anchor/phantom pains: keep re-sourced to Persona metaphysics (RECOMMENDED) vs. cut entirely. → `01_TRANSFER_RECONCILIATION.md` §2.
 - [OPEN Q2] P5R integration depth: A) vanilla year + Royal seasoning, old default; B) **full Royal finale — third semester, Maruki's false Subaru, crossing at reality's reversion (RECOMMENDED)**; C) rejected-as-default compressed reshuffle. → §3.
