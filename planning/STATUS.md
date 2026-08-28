@@ -12,7 +12,8 @@
 | Phase 1.5 — Transfer Pack Reconciliation | ✅ `01_TRANSFER_RECONCILIATION.md` |
 | Phase 2 — Character Synthesis | ✅ `02_CHARACTER_SYNTHESIS.md` |
 | Phase 3 — Earth Arc Architecture (22 chapters) | ✅ `03_EARTH_ARC_ARCHITECTURE.md` |
-| Phase 4 — Persona deep design (Quixote kit, Nav rules, awakening beat-map, Theseus triggers) | ⬜ next |
+| Phase 4 — Persona deep design (Quixote kit, Nav rules, awakening beat-map, Theseus triggers) | ✅ `04_PERSONA_INTEGRATION.md` |
+| Phase 5 — Character development tracker (per-chapter state deltas) | ⬜ next (can batch with 6+7) |
 | Phase 5 — Character development tracker (per-chapter state deltas) | ⬜ |
 | Phase 6 — Yaldabaoth climax beat design (ch. 17) | ⬜ |
 | Phase 7 — Crossing design (ch. 22) + post-crossing Earth policy | ⬜ |
