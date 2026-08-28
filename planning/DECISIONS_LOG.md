@@ -66,6 +66,12 @@
 - [LOCKED] **Pre-awakening law:** Persona *characters* may appear (school, city, sightings) but **no supernatural aspect touches Haru** between ch. 1 and the Kaneshiro day — no Metaverse, no Palace, no Persona. Allowed exceptions (already established ch. 1 canon): the anchor pains and the Nav's ongoing "No results found." Consequence: chapters 2–6 are a **yakuza story** (corpus-first: BLAD rackets/collections/tournament, Higurashi investigation, PDR reputation mechanics — author's explicit meta-instruction).
 - [LOCKED] **Chapter renumbering:** old ch. 6+7 merge/replace → new ch. 7 "The Bank of Gluttony" (awakening) + new ch. 8 "Rook" (induction); all later chapters shift +1. Book One = **23 chapters**. Old numbering in prior docs/logs is superseded by `03` v2.
 
+## LOCKED — author, session 6 (2026-08-28)
+- [LOCKED] **Chapter word law:** 10k words target per chapter (comfortable floor; may run up/down). **Show-don't-tell is the house method** — it expands scenes naturally; that is craft, not bloat. Production drafts mark expansion points for the author's show-don't-tell pass.
+- [LOCKED] Windmill sails: **PROMOTED** — spent once, huge, at the Yaldabaoth fight (ch. 18, beat 10; Phase 6's call, executed per Phase 4's proposal gate).
+- [FINAL] Ch. 23 end-sting: **IN — the book's last page** (Futaba: "He's not dead. He's LOST. We find him."). Phase 7's call, per standing recommendation.
+- [COMPLETE] Phases 5–7 delivered: `05_CHARACTER_DEV_TRACKER.md`, `06_YALDABAOTH_CLIMAX_DESIGN.md`, `07_TRANSITION_TO_LUGUNICA.md`. **Book One planning is COMPLETE.** Post-crossing Earth policy locked (threads freeze, not resolve; the copied log is the only open valve; no rescue arc; the notebook survives everything).
+
 ## OPEN — author questions outstanding
 - [OPEN Q1] Death-anchor/phantom pains: keep re-sourced to Persona metaphysics (RECOMMENDED) vs. cut entirely. → `01_TRANSFER_RECONCILIATION.md` §2.
 - [OPEN Q2] P5R integration depth: A) vanilla year + Royal seasoning, old default; B) **full Royal finale — third semester, Maruki's false Subaru, crossing at reality's reversion (RECOMMENDED)**; C) rejected-as-default compressed reshuffle. → §3.

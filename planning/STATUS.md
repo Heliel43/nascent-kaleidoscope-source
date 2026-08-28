@@ -11,13 +11,13 @@
 | Phase 1 — Source Audit | ✅ `00_SOURCE_AUDIT.md` |
 | Phase 1.5 — Transfer Pack Reconciliation | ✅ `01_TRANSFER_RECONCILIATION.md` |
 | Phase 2 — Character Synthesis | ✅ `02_CHARACTER_SYNTHESIS.md` |
-| Phase 3 — Earth Arc Architecture (22 chapters) | ✅ `03_EARTH_ARC_ARCHITECTURE.md` |
-| Phase 4 — Persona deep design | ✅ `04_PERSONA_INTEGRATION.md` **(revised session 5: acceptance-grammar awakening in Kaneshiro's Bank, ch. 7 beat map; Nav dead-months rules)** |
-| Phase 5 — Character development tracker (per-chapter state deltas) | ⬜ next (can batch with 6+7) |
-| Phase 5 — Character development tracker (per-chapter state deltas) | ⬜ |
-| Phase 6 — Yaldabaoth climax beat design (ch. 17) | ⬜ |
-| Phase 7 — Crossing design (ch. 22) + post-crossing Earth policy | ⬜ |
-| Phase 8–9 — Lugunica architecture (Book II) | ⬜ (after Earth production begins, if desired) |
+| Phase 3 — Earth Arc Architecture (23 chapters, v2) | ✅ `03_EARTH_ARC_ARCHITECTURE.md` |
+| Phase 4 — Persona deep design | ✅ `04_PERSONA_INTEGRATION.md` **(session 5: acceptance-grammar awakening in Kaneshiro's Bank, ch. 7 beat map; Nav dead-months rules)** |
+| Phase 5 — Character development tracker (per-chapter state deltas) | ✅ `05_CHARACTER_DEV_TRACKER.md` |
+| Phase 6 — Yaldabaoth climax beat design (ch. 18) | ✅ `06_YALDABAOTH_CLIMAX_DESIGN.md` |
+| Phase 7 — Crossing design (ch. 23) + post-crossing Earth policy | ✅ `07_TRANSITION_TO_LUGUNICA.md` |
+| **BOOK ONE PLANNING: COMPLETE** | production may begin |
+| Phase 8–9 — Lugunica architecture (Book II) | ⬜ optional now; required before Book II drafting |
 | Prose | **none committed yet** — Ch. 1 v4 exists in the OLD workspace (not in repo); v4.1 revision pending author's paste of v4, or treatment-based pass (treatment: `03` §7) |
 
 ## NEW-SESSION BOOT PROTOCOL (for the author)
@@ -61,14 +61,13 @@ Drafts live in `planning/chapters/chNN_title.md` once they exist.
 
 ## RULES OF THE PRODUCTION LINE
 
-- **Drafts are ROUGH and plot-faithful** (~10–12k), voice-calibrated to the pack's house voice; every draft ships with **Humanization Notes** (what to keep, where the author's voice should override, expansion points). The author's pass is expected and heavy — that is the design (directive Rule 4, pack §5).
+- **Chapter law (session 6): 10k-word target per chapter** (up/down allowed); **show-don't-tell is house method** and expands scenes naturally — drafts mark expansion points for it; no mindless bloat. Drafts are ROUGH and plot-faithful, voice-calibrated to the pack's house voice; every draft ships with **Humanization Notes**. The author's pass is expected and heavy — that is the design (directive Rule 4, pack §5).
 - **Nothing posts without the author's rewrite/approval.**
-- **Phases 4–7 complete before ch. 2 drafting begins** (ch. 17 and ch. 22 need their Phase 6/7 designs); ch. 1 v4.1 and ch. 2's draft may proceed once Phase 4 lands.
-- **Ration checks before drafting any chapter:** comedy share (25–35%, front-loaded per `03` §9.4); one raw line per chapter; no Ajin; no Velvet Room; no information through the anchor; named-yakuza rations (Kiryu ch. 8 only; Majima ch. 5 only; Iwai recurring; Ichiban absent — canon).
+- **All planning phases complete; production may begin** with ch. 1 v4.1 and ch. 2 drafts.
+- **Ration checks before drafting any chapter:** comedy share (map in `05` §7); one raw line per chapter (map in `05` §7); no Ajin; no Velvet Room; no information through the anchor; pre-awakening supernatural quarantine (ch. 2–6, `03` §2); named-yakuza rations (Kiryu: ch. 4 myth + ch. 9 page; Majima: ch. 5; Iwai recurring; Ichiban absent — canon).
 
 ## OPEN AUTHOR ITEMS
 
 1. Paste **Chapter 1 v4** text for the line-level v4.1 pass (or approve treatment-based fresh pass).
-2. Phase 4–7 go-ahead (agent can run them in one or several sessions).
-3. Ch. 22 end-sting placement ("he's not dead, he's LOST") — Phase 7 final call (current: recommend IN).
-4. Saga ending (erasure/return vs. alternatives) — Phase 9, far future.
+2. Green-light ch. 1 v4.1 + ch. 2 drafting (production line start).
+3. Saga ending (erasure/return vs. alternatives) — Phase 9, far future.
