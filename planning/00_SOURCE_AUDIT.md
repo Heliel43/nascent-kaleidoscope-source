@@ -21,7 +21,7 @@ Second most important discovery: `Sun's Valour` contains a passage naming Theseu
 
 There is **no existing Don Quixote/Theseus Persona content, no Haru character, and no Re:Zero material beyond early-arc canon coverage** — those are synthesis zones, identified as such in §7.
 
-One important process gap: **the previous project's files are not present in this workspace** (see §6.8). This audit proceeds on the repository alone.
+**Update (v1.1):** The previous project's state has since been supplied in-chat as a transfer pack (now `planning/transfer_pack.md`) and reconciled against this audit and the master directive in `planning/01_TRANSFER_RECONCILIATION.md`. §6.8 is resolved; several §6 items are now locked in `planning/DECISIONS_LOG.md`. This audit proceeds on the repository alone.
 
 ---
 
@@ -61,7 +61,7 @@ One important process gap: **the previous project's files are not present in thi
 
 ### Tier B — Texture only (background radiation, not structure)
 
-`Isekai_Theater.txt` (Subaru explains Return by Death to fellow isekai protagonists, l. 3094 — the **emotional register of an RbD confession**, and other protags' horrified reactions; useful later), `REInfinity_-_Starting.txt` (strong-Subaru AU; Lugunica texture, Emilia-cast banter, Royal Selection references — **voice-only** value, its premise contradicts our Subaru), `Abusing Tropes In A Generic Anime World For Maximum Bullshit.txt` (anime-Japan meta texture), `Burn the World Down (Gamer SI, Avatar The Last Airbender).txt` and `Wandering prince.txt` (training-arc structures), `A_Gamers_Grand_Journey.txt` (escalation/combat), `Breaking_the_World_with.txt`, `The Guild of Gamers The Supervillain.txt`, `Where the hell are the Worms (Chaos Gacha).txt`, `Just as Satan Intended (DxD, Chaos Gacha.txt`, `Hollow Hope(DXD Self-Insert).txt`, `I, Draugr.txt`, `A_Nascent_Kaleidoscope.txt` (the repo's namesake — a Zelretch multicross; **near-zero relevance to this saga beyond the title**; noted honestly), `A_Body_of_Water_and.txt`, `Down_a_Rabbit_Hole_to.txt`, `The_Hobbit_A_Most.txt`, `It_Started_With_The.txt`.
+`Isekai_Theater.txt` (Subaru explains Return by Death to fellow isekai protagonists, l. 3094 — the **emotional register of an RbD confession**, and other protags' horrified reactions; useful later), `REInfinity_-_Starting.txt` (strong-Subaru AU; Lugunica texture, Emilia-cast banter, Royal Selection references — **voice-only** value, its premise contradicts our Subaru), `Abusing Tropes In A Generic Anime World For Maximum Bullshit.txt` (anime-Japan meta texture), `Burn the World Down (Gamer SI, Avatar The Last Airbender).txt` and `Wandering prince.txt` (training-arc structures), `A_Gamers_Grand_Journey.txt` (escalation/combat), `Breaking_the_World_with.txt`, `The Guild of Gamers The Supervillain.txt`, `Where the hell are the Worms (Chaos Gacha).txt`, `Just as Satan Intended (DxD, Chaos Gacha.txt`, `Hollow Hope(DXD Self-Insert).txt`, `I, Draugr.txt`, `A_Nascent_Kaleidoscope.txt` (**re-tiered in v1.1:** plot-irrelevant, but now the designated VOICE/style donor — it is the author's own prior fic and the saga's first-person tone anchor per the transfer pack; see `01_TRANSFER_RECONCILIATION.md` §4), `A_Body_of_Water_and.txt`, `Down_a_Rabbit_Hole_to.txt`, `The_Hobbit_A_Most.txt`, `It_Started_With_The.txt`.
 
 ### Tier C — Not usable for this saga (kept for completeness)
 
@@ -228,7 +228,7 @@ All three can be combined (Velvet Room frames it; Yaldabaoth's death-wound makes
 5. **REInfinity's overpowered confident Subaru vs. directive §18's terrified strategic Subaru.** Resolution: REInfinity is voice-texture only; its premise is rejected.
 6. **Isekai Theater's penalty-free RbD vs. canon penalty (heart-crush/punishment).** Resolution: our story keeps the penalty; the confession register alone is borrowed.
 7. **Exhibition covers Arcs 1–2 only.** For Arc 3+ the saga writes from canon knowledge with Exhibition as tone reference. Not a contradiction — a coverage limit, stated so nobody expects file support later.
-8. **Previous project history unavailable.** Directive §5 asks me to inspect prior-project planning (including the fact that Haru was once conceived with Ajin traits, per §14's correction). No such material exists in this workspace (single-commit repo, no other folders). **Impact:** prior decisions beyond what §14 states are unknown; the audit proceeds on this corpus alone. If the previous project's files can be provided, Phases 2+ should be re-checked against them.
+8. **Previous project history unavailable.** ~~Directive §5 asks me to inspect prior-project planning...~~ **RESOLVED in v1.1:** supplied as `planning/transfer_pack.md` and reconciled in `planning/01_TRANSFER_RECONCILIATION.md`. Key ruling: the transfer pack governs where compatible with the master directive; the Ajin element is removed per directive §14; the pack's locked timeline supersedes this audit's §6.3 proposal.
 
 ---
 
