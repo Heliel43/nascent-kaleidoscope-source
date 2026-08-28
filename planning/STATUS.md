@@ -32,8 +32,8 @@
 
 | # | Working title | Window | Brief | Rough draft | Humanized | Posted |
 |---|---|---|---|---|---|---|
-| 1 | Winter | May 7–10, 2016 | v4 exists (old workspace); v4.1 treatment = `03` §7 | ⬜ | ⬜ | ⬜ |
-| 2 | The Name | May 11–24 | expanded brief = `03` §8 | ⬜ | ⬜ | ⬜ |
+| 1 | Winter | **May 2–10, 2016** (amended: opens on Kamoshida confession day) | v4 exists (old workspace); v4.1 treatment = `03` §7 (live-witness amendment) | ⬜ | ⬜ | ⬜ |
+| 2 | The Name | **May 10–24** (amended) | expanded brief = `03` §8 | ⬜ | ⬜ | ⬜ |
 | 3 | The Coward's Castle | May 25–Jun 5 | `03` §4 | ⬜ | ⬜ | ⬜ |
 | 4 | Collateral | Jun 6–17 | `03` §4 | ⬜ | ⬜ | ⬜ |
 | 5 | The Cage | Jun 18–24 | `03` §4 | ⬜ | ⬜ | ⬜ |

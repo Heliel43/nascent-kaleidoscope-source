@@ -75,7 +75,8 @@ Touched-but-not-broken canon (the full map):
 3. **Third-semester dates pinned:** false reality begins ~Jan 2; Sumire rescue Jan 9; forced exploration Jan 12; calling card Feb 2; final battle and reversion **Feb 3 — canon's "Day of Fates."** The crossing is locked to the reversion, night of Feb 2–3, 2017. (The pack's old "deadline February third" memory is canon-exact — note the resonance for prose.)
 4. **Mementos opens May 7, 2016** — the day ch. 1 begins. Use it: the Nav arriving days after the Metaverse "opens for business" is canon consonance the narration never comments on and the reader may catch.
 5. **Maruki's hire is canon-motivated** (post-Kamoshida school response) — so his first Haru beat belongs in ch. 2's window, and the Oct 3 "first glimpse" of his palace (canon date) belongs in ch. 12's window. Both are planted quietly; neither is explained.
-6. **"Kamoshida confession May 2" (pack) confirmed canon-exact** (deadline May 2). Ch. 1's May 9 "aftermath Monday" beat survives verification.
+6. **"Kamoshida confession May 2" (pack) confirmed canon-exact** (deadline May 2). Ch. 1's "aftermath Monday" beat survives verification as a *live-witness* scene — see amendment 7.
+7. **(Session 4 amendment, author ruling):** Ch. 1 opens on **May 2 — confession day itself** (live gymnasium assembly; the Thieves ~3 weeks old, Kamoshida their first case). School-side beats anchor to canon dates; **yakuza-side and civilian-side scene dates are flexible within windows** (the pack's alley-fight/dinner/Nav sequence floats to May 2–10 intact). Ch. 2 window shifts to May 10–24; the mid-May awakening is untouched.
 
 ---
 
@@ -83,15 +84,16 @@ Touched-but-not-broken canon (the full map):
 
 Format per chapter: **window — canon spine — A-plot — B-plot — C-slice — donors — ledger ops.** (Donors = corpus material to adapt; ledger = foreshadow/payoff ops from §6.)
 
-### CH. 1 — "Winter" · May 7–10
-- **Canon spine:** Kamoshida aftermath (confession May 2); Mementos opens May 7; Phan-Site growth; Mishima active.
-- **A:** alley fight Sat May 7 (knife; Millennium Tower lead from the collection crew) → the case-as-constructed-delusion.
+### CH. 1 — "Winter" · **May 2–10, 2016** *(AMENDED session 4: opens on confession day)*
+- **Canon spine:** **KAMOSHIDA'S PUBLIC CONFESSION — MONDAY MAY 2, LIVE** (canon date); the Thieves are ~3 weeks old, Kamoshida was their *first case*; Mementos opens May 7; Phan-Site growth; Mishima active.
+- **Cold open:** the gymnasium assembly, May 2 — Haru in the bleachers watching a grown man's sins leave his mouth in front of the whole school. The city's newest miracle, live. Theme lands unspoken: a confession can move the world; nobody confessed anything about Subaru. After school same day: the Ren/Ryuji/Ann/Morgana cat-argument sighting (Haru doesn't know they exist; the reader does).
+- **A:** evening alley fight, Kamurocho (knife; Millennium Tower lead from the collection crew) — yakuza-side, date-flexible per session-4 ruling → the case-as-constructed-delusion.
 - **B:** Winter's Kamurocho; the notebook (pains + training); "Winter" alias origin.
-- **C:** Sunday dinner May 8 (Kenichi's restaurant, Naoko's logistics, "Natsuki men and graves" silence); Shujin May 9 (Kamoshida aftermath, Shiho, Ren/Ryuji/Ann/Morgana cat-argument sighting, Phan-Site); May 9 night Meta-Nav appears → "Natsuki Subaru" = **No results found**; ~1 a.m. May 10 pain, logged.
+- **C:** the week unfolds — Mishima/Phan-Site buzz; optional May 7 consonance line ("the underground opened for business"); **Sunday dinner May 8** (Kenichi's restaurant, Naoko's logistics, "Natsuki men and graves" silence); **Monday May 9 night: Meta-Nav appears** → "Natsuki Subaru" = **No results found** → ~1 a.m. May 10 pain, logged.
 - **Donors:** PDR ch. 1 (stylistic taxonomy flashback), Black Star's Kawakami-classroom prose (Shujin texture), Ghost-in-the-City sibling register (flashback), Kaleidoscope voice (throughout).
-- **Ledger:** plants ALL pack seeds (pain-before-wound; delusion; Millennium Tower; Thieves sighting; Phan-Site; Nav; "a name, a place, a distortion"). **Status: v4 exists; v4.1 revision treatment in §7.**
+- **Ledger:** plants ALL pack seeds (pain-before-wound; delusion; Millennium Tower; Thieves sighting; Phan-Site; Nav; "a name, a place, a distortion"). **Status: v4 exists; v4.1 revision treatment in §7 (school sequence upgraded to live witness).**
 
-### CH. 2 — "The Name" · May 11–24
+### CH. 2 — "The Name" · **May 10–24** *(AMENDED: window shifts one week later; awakening stays mid-May, pack-locked)*
 - **Canon spine:** Maruki arrives at Shujin (canon-motivated); Madarame's Museum unlock May 16 (background radio).
 - **A:** the security-company lead pays out — the **man with the Tojo pin** gets a name → Nav: name + Millennium Tower + distortion word → **HIT** → first entry into his own first Palace → overwhelmed, cornered by the target's cognition of "the snooping kid" → the verdict that everyone believes ("your brother is dead, boy") → refusal → **DON QUIXOTE AWAKENING** (mid-May, pack-locked; his own palace, not Kamoshida's). *No Velvet Room — locked ruling: the awakening is pure rebellion, his contract is with nobody.*
 - **B:** Iwai introduction — the airsoft shop, the ex-Tojo border-crossing, PDR's recognition mechanic reversed (Iwai clocks the kid *asking wrong questions* and can't argue a griever out of grief, so he sells him gear instead).
@@ -305,7 +307,7 @@ The pack's ch. 1 scene list survives intact except where struck below. The autho
 2. **Knife-wound consequences mortalized.** The alley knife fight leaves a real wound: stitches or staples, a weeks-long limitation on training (he ices it at the Big Echo; Mama Shizu notices and pretends not to; Boss the cat judges). No fast-heal language anywhere.
 3. **January beating references:** if v4 references a January hospital visit or impossible recovery, re-point to the beating's real costs (chipped tooth, the ch. 4 debt to the crew that scattered them).
 4. **ER backstory (Dec 2015):** keep as the misdiagnosed-seizure lie; remove any Ajin-adjacent phrasing ("came back," "shouldn't have survived"). If v4 has Haru surviving anything he shouldn't, re-break it: he ran, he was lucky, a bystander scattered them.
-5. **Everything else preserved:** alley fight May 7; the delusion construction with mundane readings; "no case at school" bridge; May 9 aftermath beats (confession aftermath, Shiho, the Ren/Ryuji/Ann/Morgana cat-argument sighting, Phan-Site); family dinner May 8 (proverb); flashback (Dec 23 vanishing; "You're loud enough for both of us"); Big Echo apartment; the log; first bath-pain memory (Dec 25, 2015); "Winter" origin; Meta-Nav appearance; "No results found"; 1 a.m. May 10 pain; the lists; the ending line ("I'm coming, Subaru. One way or another.").
+5. **Everything else preserved:** alley fight May 7; the delusion construction with mundane readings; "no case at school" bridge; **the school sequence — AMENDED session 4: ch. 1 now opens Monday May 2 with the Kamoshida confession LIVE in the gymnasium assembly (Haru a bleacher witness), with the Ren/Ryuji/Ann/Morgana cat-argument sighting after school the same day; v4's "May 9 aftermath" beats are superseded by the live scene plus week-long texture**; family dinner May 8 (proverb); flashback (Dec 23 vanishing; "You're loud enough for both of us"); Big Echo apartment; the log; first bath-pain memory (Dec 25, 2015); "Winter" origin; Meta-Nav appearance May 9 night; "No results found"; 1 a.m. May 10 pain; the lists; the ending line ("I'm coming, Subaru. One way or another.").
 6. **v1.1 consonance insert (optional, one line):** May 7 — the day the underground "opened for business," per city rumor; never explained. (Mementos canon date; pure dramatic irony.)
 
 ---

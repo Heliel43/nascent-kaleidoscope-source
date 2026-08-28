@@ -55,6 +55,10 @@
 - [LOCKED] **Velvet Room exclusion:** Haru is NOT a wild card and NOT a Velvet Room guest. No contract, no Igor/Lavenza guest scenes, no "blue door" beats. Don Quixote awakens by pure rebellion-awakening, exactly like the Thieves. Fool arcana (pack) stands but does not imply wild card. The Velvet Room may at most observe the anchor anomaly offscreen (Book II / Phase 8 question). Supersedes: Phase 2 §11 Lavenza line; Phase 3 ch. 2 "blue door" flash; the banked library-of-romances proposal.
 - [LOCKED] **Production system (author's design, confirmed):** finish all planning phases (4–7 remaining for Book One), then produce ROUGH DRAFTS chapter by chapter, each with a writing guide (Humanization Notes per pack §5); the author rewrites with human touch and continues; **fresh chat per chapter/batch** to avoid context degradation and token bloat. All state lives in repo files (esp. `DECISIONS_LOG.md` + `STATUS.md`), never in chat history. Boot protocol: `planning/STATUS.md`.
 
+## LOCKED — author, session 4 (2026-08-28)
+- [LOCKED] Ch. 1 opens **May 2, 2016 — Kamoshida's confession day, live** (gymnasium assembly witness; Thieves ~3 weeks old, first case just concluded). School-side beats pin to canon dates; yakuza-side and civilian-side scene dates flex within chapter windows (author: "Yakuza give us more leeway when it comes to dates"). Ch. 1 window: May 2–10; ch. 2 window: May 10–24; mid-May awakening unchanged.
+- [LOCKED] Production confirmation: author endorses the current ch. 1 story start for Haru ("liked the story started in chapter 1").
+
 ## OPEN — author questions outstanding
 - [OPEN Q1] Death-anchor/phantom pains: keep re-sourced to Persona metaphysics (RECOMMENDED) vs. cut entirely. → `01_TRANSFER_RECONCILIATION.md` §2.
 - [OPEN Q2] P5R integration depth: A) vanilla year + Royal seasoning, old default; B) **full Royal finale — third semester, Maruki's false Subaru, crossing at reality's reversion (RECOMMENDED)**; C) rejected-as-default compressed reshuffle. → §3.
