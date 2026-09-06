@@ -65,7 +65,7 @@ The first reveal pass only reaches AOU, but these are the later baseline station
 | *Captain America: Civil War* (2016) | The Avengers fracture over the Sokovia Accords; Peter is recruited by Tony; Bucky is central. | Peter's public MCU recruitment remains recognizable. Henry's position must be decided separately; he is not automatically placed on Tony's team. |
 | *Spider-Man: Homecoming* (2016 working placement) | Peter returns to school, deals with Toomes, and tries to balance heroism with ordinary adolescence. | This is a major Peter/Henry school-life station, but Henry cannot solve the Vulture plot or turn Peter's film into a side character's story. |
 | *Doctor Strange* (2016–17) | Strange enters the mystic world and defeats Dormammu through a time loop. | Magic becomes more legible, but it is not the explanation for Henry's age. |
-| *Thor: Ragnarok* (2017) | Thor, Loki, Hulk, Valkyrie, Hela, and the destruction of Asgard lead into the refugee ship and Thanos. | Thor/Henry's pre-existing bond matters; Henry does not replace Valkyrie, Hulk, or Loki's canon functions. |
+| *Thor: Ragnarok* (2017) | Thor, Loki, Hulk, Valkyrie, Hela, and the destruction of Asgard lead into the refugee ship and Thanos. | Thor/Henry's prior acquaintance matters; their deeper bond is built later. Henry does not replace Valkyrie, Hulk, or Loki's canon functions. |
 | *Avengers: Infinity War* (2018) | Thanos gathers the Stones; Loki dies protecting Thor; Peter is snapped. | Henry's role must be earned and cannot make him a secret equal to Thanos. The Loki/Henry relationship is now burdened by loss. |
 | *Avengers: Endgame* (2023) | The Avengers undo the Blip, defeat Thanos, and the time heist creates the 2012 Loki branch. | The time heist is the first safe doorway to explicit TVA consequences; do not use it to solve Henry's mystery retroactively without setup. |
 | *WandaVision* (post-Blip) | Wanda's grief creates Westview; the post-Endgame world begins processing the return and the Avengers' absence. | Henry's emotional and public-world consequences can appear in aftermath, but Wanda is not a tool for diagnosing him. |
@@ -82,8 +82,8 @@ The dates below are the story's working ledger. The official MCU timeline has ha
 
 | Period | MCU event | Henry-project treatment | Status |
 |---|---|---|---|
-| 24 Nov. 1971 | Loki, as D.B. Cooper, hijacks the Northwest Orient flight after losing a bet with Thor and returns through the Bifrost. | The human mother meets Loki during this Earth-side period. The circumstances, duration, and exact location of the relationship are not shown early. Henry's conception/birth chronology is the long mystery. | CANON + ORIGINAL addition |
-| 1990s–2000 | No Henry material is exposed. | Do not use a prologue to explain the answer. Any mother-side history is held for evidence fragments much later. | CONNECTIVE restraint |
+| 24 Nov. 1971 | Loki, as D.B. Cooper, hijacks the Northwest Orient flight after losing a bet with Thor and returns through the Bifrost. | The human mother meets Loki during this Earth-side period. The circumstances, duration, and exact location of the relationship are not shown early. Henry's conception/birth chronology is the long mystery. The later TVA capture/escape/drop sequence is a locked future backstory, not an opening reveal. | CANON + ORIGINAL addition |
+| After Henry's birth; date withheld | The TVA attempts to capture infant Henry. During the same chaotic escape in which Sylvie is fleeing the TVA, she takes the baby, remembers her own ruined childhood, and drops him onto the Sacred Timeline under an enchantment that hides his Jotun/Asgardian origin. | This is author-side backstory only. The exact date, the reason the TVA targeted him, where he is dropped, how the records are made, and how he reaches his later human life remain future planning questions. | ORIGINAL / future backstory anchor |
 | Spring 2010 | *Iron Man 2* / *The Incredible Hulk* era, depending on which internal placement is used. | Peter is still a child in the untouched baseline. No Henry intervention is needed. | CANON |
 | 2011 | *Thor*: Thor is banished to Midgard; Loki's parentage is exposed; Loki's first attempt at taking the throne fails. | Henry's story has not yet forced itself into Asgardian history. Thor and Loki's established family history is preserved. | CANON |
 | Spring 2012 | *The Avengers*: Loki attacks New York with the Tesseract; the Avengers form publicly and defeat him. | Henry sees the event through a child's/young teenager's perspective, if it is mentioned at all. He does not fight in New York. This is an important contrast with later involvement. | CANON |
@@ -92,7 +92,7 @@ The dates below are the story's working ledger. The official MCU timeline has ha
 | Spring 2014 | *The Winter Soldier*: HYDRA inside S.H.I.E.L.D., Insight, the Helicarriers, Bucky's return. | Henry and Peter's first street-level period occurs against a city that is already more alert to masked vigilantes. Neither child is inserted into the Triskelion climax. A S.H.I.E.L.D. collapse can explain why local hero information is handled badly, not why Henry is chosen. | CANON + SOURCE-COMBINED street-level layer |
 | Summer 2014 | *Guardians of the Galaxy*: Peter Quill, the Orb, Xandar, Ronan, and the Guardians. | Mostly off-screen for Henry. The wider universe exists, but this is not the moment to send Henry into a cosmic plot. A news item or later debrief is sufficient. | CANON |
 | Fall 2014 | **Henry and Peter's early hero period.** | Henry's powers awaken; he experiments, makes mistakes, adopts a provisional mask, and gets into trouble. Peter has already been Spider-Man for a short period under the deliberate early-Peter butterfly described in section C. | SOURCE-COMBINED + CONNECTIVE |
-| Late 2014–early 2015 | Henry/Peter partnership, same class, school life, neighborhood patrols, and first adult contacts. | Thor encounters Henry more than once and develops a real, specific fondness for him. The relationship begins as familiarity and amusement, not instant family. | SOURCE-COMBINED + ORIGINAL |
+| Late 2014–early 2015 | Henry/Peter partnership, same class, school life, neighborhood patrols, and first adult contacts. | Thor encounters Henry more than once and remembers him as a young, underqualified ice-powered hero. There is curiosity and professional respect, but no closeness or pre-reveal attachment. | SOURCE-COMBINED + ORIGINAL |
 | Spring 2015 | *Avengers: Age of Ultron*: Strucker raid, Ultron's awakening, Wanda's visions, Johannesburg, the party and Avengers fracture, Seoul, Vision, Sokovia. | Henry is not in the opening raid as an Avenger. He is close enough to the Avengers to be useful in a controlled civilian/containment role. The paternity truth surfaces during the AOU period, ideally between canon action beats and through a private evidence chain. The final Sokovia battle remains recognizable. | CANON backbone + major planned divergence |
 | Immediate AOU aftermath | New Avengers roster; Loki remains an Asgardian political problem rather than a sudden perfect father. | Thor, Henry, and Loki begin dealing with the new fact. Loki's first response is disbelief, suspicion, irritation, and curiosity. | ORIGINAL consequence built on CANON |
 
@@ -102,7 +102,7 @@ The story begins in **fall 2014**, not in 1971 and not in the middle of *The Dar
 
 - Henry to be a genuinely inexperienced hero without making him a preschooler;
 - Peter and Henry to have a meaningful friendship before spring 2015;
-- Thor to see Henry in several contexts before the reveal;
+- Thor to have several limited encounters with Henry before the reveal, without creating a close bond;
 - the AOU reveal to feel like a consequence of accumulated clues rather than a random genealogy twist.
 
 The 1971 material is a buried story layer. The audience can learn that it exists before it understands what it means.
@@ -239,7 +239,7 @@ Henry is unusually resistant to cold and can partially ice over his skin or limb
 
 ## E5. Power-related mystery
 
-The story may allow characters to wonder whether Henry's abilities resemble Frost Giant or Asgardian magic. That is an observation, not an answer. Henry's power is first treated as a power he has to train, not as proof that he has a destiny.
+The story may allow characters to wonder whether Henry's abilities resemble Frost Giant or Asgardian magic. That is an observation, not an answer. Sylvie's later concealment enchantment hides the Jotun/Asgardian origin well enough that early tests can produce ambiguous results. Henry's power is first treated as a power he has to train, not as proof that he has a destiny.
 
 ---
 
@@ -413,9 +413,9 @@ This arc ends with Henry being known to a few adults, but not being promoted to 
 
 - A contained Asgardian/alien aftermath problem gives Thor a reason to meet Henry.
 - Thor initially treats him like a brave, underqualified Midgardian child; Henry objects to being treated like a child while proving the point.
-- Thor sees Henry's stubbornness, humor, and sideways intelligence. Those qualities remind him of Loki without making Henry a Loki copy.
-- Henry and Thor share several encounters: a training correction, a civilian rescue, and an ordinary conversation where Thor has to listen rather than perform.
-- Thor's attachment develops through repetition. He does not declare Henry family.
+- Thor notices Henry's stubbornness, humor, and sideways intelligence. The resemblance to qualities Thor associates with Loki is an observation, not an emotional bond.
+- Henry and Thor have several short encounters: a correction during a rescue, a brief battlefield exchange, and perhaps one ordinary conversation. Each ends before it becomes intimate.
+- Thor remembers Henry as a competent young hero and may be mildly curious about him, but he does not become protective or personally attached before the reveal.
 - Henry learns some Asgardian facts but not the parentage truth. The Dark World remains a background pressure and foreshadowing station, not the reveal.
 
 ## Arc 5 — Age of Ultron: the machine, the team, and the name behind the cold
@@ -427,11 +427,11 @@ This arc ends with Henry being known to a few adults, but not being promoted to 
 2. At the Tower, Henry's status as a young powered contact gives him a limited reason to be there: medical observation, evacuation planning, or a controlled technical consultation. Peter is not part of the AOU field team.
 3. Ultron awakens and the canon conflict proceeds. Henry helps with containment or civilians, not with replacing Tony, Bruce, Wanda, or Thor in their defining scenes.
 4. The first age clue becomes useful: a record, sample, or magical/biological reading about Henry cannot reconcile with the calendar.
-5. Thor's familiarity with Henry makes him the person most likely to recognize that the problem is personal, not merely scientific.
+5. Thor's prior familiarity is enough for him to recognize Henry's powers and behavior, but not enough to make the revelation feel like a betrayal of an existing close relationship.
 6. Evidence links Henry's mother to the D.B. Cooper period. The link is not delivered as an author speech; it is found, compared, and resisted.
 7. The paternity conclusion lands during the AOU period, in a private or semi-private scene between canon action beats. The Avengers do not stop fighting Ultron for an hour.
 8. Henry reacts with confusion, curiosity, irritation, and the absurd awareness that his father being Loki is an objectively ridiculous fact. He does not automatically hate Loki or embrace him.
-9. Thor's reaction is emotionally weighted because he already cares about Henry. He does not blame Henry for Loki and does not turn the reveal into an instant adoption declaration.
+9. Thor's reaction is startled and conflicted rather than deeply wounded by a pre-existing bond. He does not blame Henry for Loki. Any real attachment begins after the revelation through choices, not because the outline says Thor already loves him.
 10. Loki's first response is delayed only as much as canon requires. He is disbelieving, defensive, amused in the wrong places, curious, and unwilling to perform instant fatherhood.
 
 The arc ends with the truth known but not emotionally solved. The victory over Ultron remains the Avengers' victory; Henry's revelation is an additional fault line.
@@ -454,7 +454,7 @@ The arc ends with the truth known but not emotionally solved. The victory over U
 1. **Peter's unseen early patrol period is moved earlier** so he can meet Henry before *Civil War*. The public film chronology remains recognizable.
 2. **Henry attends Peter's school/class** in the same cohort.
 3. **Henry becomes a minor known contact of the Avengers before AOU**, but not a replacement Avenger.
-4. **Thor meets Henry repeatedly before AOU** and develops a bond with him.
+4. **Thor meets Henry repeatedly before AOU** but remains an acquaintance and occasional adult contact; the real bond develops after the reveal.
 5. **Loki's unknown human relationship in the D.B. Cooper period exists in the story.** It does not overwrite the joke that Loki was D.B. Cooper or turn the hijacking into a grand prophecy.
 6. **The Henry/Loki paternity reveal occurs during the AOU era**, not *The Dark World*.
 7. **Henry's age is a real temporal mystery.** Public records will not immediately provide the answer; the TVA connection is delayed until later canon makes it possible.
@@ -481,14 +481,13 @@ The recurring emotional rule: Peter and Henry can argue without the story treati
 
 ## I2. Henry / Thor
 
-1. **Recognition:** Thor notices courage and stubbornness, not a blood relation.
-2. **Amusement:** Henry's ability to answer Thor's grand speeches with a practical objection becomes a private joke.
-3. **Respect:** Thor sees Henry choose rescue over a flashy win and begins trusting his judgment.
-4. **Instruction:** Thor teaches one or two things about battlefield positioning, while Henry's ice makes Thor rethink how a non-Asgardian fights.
-5. **Care:** Thor checks on Henry after injury, remembers small details, and makes room for him without claiming him.
-6. **Pre-reveal attachment:** Thor already cares before learning the truth.
-7. **Reveal strain:** Thor must separate “Loki's son” from “Henry, the boy I know.” He can be angry at Loki, worried about Henry, and still behave like Thor.
-8. **Long-term:** a brotherly/uncle-like bond can emerge through choices. It is never granted by a family tree alone.
+1. **Recognition:** Thor notices courage, stubbornness, and an unusual cold-based power, not a blood relation.
+2. **Amusement:** Henry's ability to answer Thor's grand speeches with a practical objection is memorable, but not yet intimate.
+3. **Limited respect:** Thor sees Henry choose rescue over a flashy win and files him away as a promising young hero.
+4. **Brief instruction:** Thor may offer one or two battlefield corrections, while Henry's ice makes Thor rethink how a non-Asgardian fights. These are short encounters, not mentorship.
+5. **Reveal shock:** Thor must process that a young hero he recognizes is Loki's son. He is concerned, suspicious, and protective of the truth without having been emotionally close to Henry.
+6. **Post-reveal care:** Thor starts checking on Henry, remembering details, and making room for him only after the revelation.
+7. **Long-term:** a brotherly/uncle-like bond can emerge through choices. It is never granted by a family tree alone.
 
 ## I3. Henry / Loki
 
@@ -526,17 +525,25 @@ The most stable current design is a **two-stage reveal inside the AOU period**:
 
 The scene should preserve the AOU rhythm: a discovery, a reaction, an interruption by the continuing crisis, and a later quiet scene where the characters are forced to sit with what they learned.
 
-## J3. What the TVA eventually explains
+## J3. What the TVA backstory eventually explains
 
-The eventual explanation should account for all of these at once:
+The intended future backstory now gives the chronology mystery a fixed spine:
 
-- how a relationship tied to 1971 produced a teenager in the 2010s;
-- why the ordinary records point to a later birth or contain deliberate gaps;
-- why nobody in the human system noticed the contradiction;
-- why Henry's existence did not immediately trigger a visible TVA intervention;
-- why the anomaly becomes more legible after *Endgame* and *Loki*.
+- Loki's relationship with Henry's mother belongs to the D.B. Cooper period.
+- The TVA later attempts to capture Henry as a baby. The exact reason remains open, but it must connect to his temporal anomaly rather than to generic “chosen one” importance.
+- Sylvie is escaping at the same time. Remembering what the TVA did to her own childhood, she takes the infant during the chaos instead of allowing the TVA to keep him.
+- Sylvie drops Henry onto the Sacred Timeline and uses an enchantment to conceal his Jotun/Asgardian origin. This is why Henry can grow up inside the ordinary human world without the early story immediately identifying him as Loki's son.
 
-Possible mechanisms remain open: a branch/reset involving Henry or his mother, temporal displacement of a child or pregnancy, a TVA-made record substitution, or a combination. **Do not choose one merely because it is the fastest answer.** The eventual answer needs to be seeded by the evidence already shown and should click backward into earlier scenes.
+The future explanation still needs to account for:
+
+- the exact date and location of the TVA capture;
+- how Henry's Sacred Timeline placement produces his human records and current age;
+- who finds and raises him after Sylvie drops him;
+- how long the concealment enchantment lasts and what weakens it;
+- why the TVA does not simply recapture him;
+- how the truth becomes legible only after *Endgame* and *Loki*.
+
+These are implementation questions, not permission to replace the fixed backstory. The early story should plant clues without naming Sylvie, the TVA operation, or the enchantment.
 
 ### TVA rules for this story
 
@@ -545,6 +552,14 @@ Possible mechanisms remain open: a branch/reset involving Henry or his mother, t
 - The TVA is not automatically benevolent; its season-1 presentation is a propaganda layer.
 - TVA/multiverse language becomes explicit only after Endgame/Loki makes it narratively available.
 - Henry's age mystery is a character problem before it becomes a cosmology problem.
+
+## J4. Locked future backstory anchor
+
+**ORIGINAL / USER-PROVIDED FUTURE PREMISE:** At some point while Henry is still a baby, the TVA attempts to capture him and succeeds. At the same time, Sylvie is escaping the TVA. In the chaos, she takes Henry because she remembers her own childhood being ruined by the TVA. She drops him onto the Sacred Timeline and uses an enchantment to hide his Jotun/Asgardian origin.
+
+This is the eventual backstory. It should be treated as author-side truth while the early chapters preserve the mystery. The exact mechanics are still ours to design: why the TVA targeted Henry, where Sylvie drops him, how his records are established, who raises him, how the enchantment interacts with his powers, and why the TVA does not immediately retrieve him. The answer should make the early age clues click rather than erase them.
+
+Sylvie and Loki must also remain distinct continuity problems. Sylvie's intervention is a later reveal about Henry's survival and concealment; it does not mean the Loki who fathered Henry knew about him, and it does not require Sylvie to be present during AOU.
 
 ---
 
@@ -582,7 +597,7 @@ This is the initial knowledge split. It must be updated after every major reveal
 | Peter identity | Secret from public; Henry discovers | Known to Henry; not publicly changed before *Civil War* |
 | Henry injuries | None locked; first arc should include minor consequences | At least one meaningful but healed injury; no gratuitous crippling |
 | Peter/Henry | Unmet → rescue → classmates → friends/partners | Established friendship with occasional conflict |
-| Thor/Henry | No relationship at page zero | Bond with emotional weight before reveal |
+| Thor/Henry | No relationship at page zero | Limited acquaintance before reveal; deeper bond begins afterward |
 | Loki/Henry | No knowledge either way | Biological truth exposed; relationship unresolved |
 | Loki clues | None overt; D.B. Cooper is background historical fact | Enough accumulated evidence to support reveal |
 | TVA clues | Date/record anomalies only | Temporal inconsistency recognized, not solved |
@@ -594,13 +609,13 @@ This is the initial knowledge split. It must be updated after every major reveal
 
 These are deliberately left open rather than being papered over.
 
-1. **Henry's mother:** name, age, location, and what exactly happened to her after the D.B. Cooper encounter. This controls whether the eventual age answer is pregnancy displacement, child displacement, or a record substitution.
+1. **Henry's mother:** name, age, location, and what exactly happened to her after the D.B. Cooper encounter. The child-capture/drop premise is fixed; the mother's fate and the evidence chain still need to be designed.
 2. **Duration of Loki's Earth-side period:** the canon joke shows the hijacking and Bifrost return, but does not give a full itinerary. The relationship needs to fit without rewriting the gag into an epic secret mission.
 3. **AOU confirmation method:** scientific, magical, documentary, or combined. It must be earned and must not make the Mind Stone an all-purpose genealogy device.
 4. **Thor's access to the truth:** decide whether he learns through Asgardian archives, Heimdall, an object, or a later conversation. He must not know simply because the outline says he does.
-5. **Loki's physical availability in 2015:** he is politically and magically relevant but should not be dragged into Sokovia without a reason. An immediate aftermath contact is currently safer than putting him in the battle.
+5. **Loki's physical availability in 2015:** he is politically and magically relevant but should not be dragged into Sokovia without a reason. An immediate aftermath contact is currently safer than putting him in the battle. Sylvie's baby-rescue backstory belongs much later and does not require her to appear in AOU.
 6. **Guardian arrangement:** select a stable, humane adult arrangement that gives Henry ordinary logistics and someone to worry about him. Avoid replacing the absent father with an abusive foster plot.
-7. **Power origin:** latent Frost Giant biology is a strong later explanation, but the early story should leave room for Henry and the audience to consider mutation, magic, or an unknown metahuman mechanism.
+7. **Power origin:** Henry's latent Jotun/Asgardian origin is concealed by Sylvie's enchantment. The early story can still let characters consider mutation, magic, or an unknown metahuman mechanism because the enchantment prevents the true answer from being obvious.
 8. **Peter's exact grade:** use a working same-class placement and keep the age ambiguity in the ledger. Do not make the characters stop for a school-administration lecture about MCU date errors.
 9. **AOU participation:** decide whether Henry is at the Tower, at a support site, or involved in Sokovia evacuation. The safest baseline is Tower/evacuation support, not raid-team membership.
 10. **Source transplant boundaries:** no copied dialogue blocks, names, harem material, Gamer mechanics, or unrelated crossover cosmologies. Take functions, reassemble them, and make the resulting scene belong to Henry and the MCU.
@@ -628,11 +643,11 @@ The project now has a workable foundation:
 - Peter and Henry can meet before *Civil War* with one controlled early-Peter butterfly;
 - Henry begins as a practical, inexperienced masked hero rather than a chosen one;
 - ice powers have a resource-supported progression and real limits;
-- Thor's bond begins before the reveal;
+- Thor's acquaintance begins before the reveal; the real bond develops afterward;
 - *The Dark World* is not the reveal arc;
 - *Age of Ultron* is the reveal station without replacing the Ultron story;
 - Loki remains surprised, defensive, curious, and imperfect;
-- the age discrepancy remains a mystery until the TVA is narratively earned;
+- the age discrepancy remains a mystery until the TVA is narratively earned, with Sylvie's baby-rescue backstory reserved for the later reveal;
 - the resource bank supplies the scene logic, relationship pacing, cryomancy ladder, and QQ-style restraint.
 
-The next planning pass should lock Henry's mother/1971 evidence chain and then produce a chapter-by-chapter Arc 1 outline. It should still not draft Chapter 1 until that outline is checked against this ledger.
+The next planning pass should lock Henry's mother/1971 evidence chain and the mechanics of the TVA capture/Sylvie drop, then produce a chapter-by-chapter Arc 1 outline. It should still not draft Chapter 1 until that outline is checked against this ledger.
