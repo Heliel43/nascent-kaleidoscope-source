@@ -82,8 +82,8 @@ The dates below are the story's working ledger. The official MCU timeline has ha
 
 | Period | MCU event | Henry-project treatment | Status |
 |---|---|---|---|
-| 24 Nov. 1971 | Loki, as D.B. Cooper, hijacks the Northwest Orient flight after losing a bet with Thor and returns through the Bifrost. | The human mother meets Loki during this Earth-side period. The circumstances, duration, and exact location of the relationship are not shown early. Henry's conception/birth chronology is the long mystery. The later TVA capture/escape/drop sequence is a locked future backstory, not an opening reveal. | CANON + ORIGINAL addition |
-| After Henry's birth; date withheld | The TVA attempts to capture infant Henry. During the same chaotic escape in which Sylvie is fleeing the TVA, she takes the baby, remembers her own ruined childhood, and drops him onto the Sacred Timeline under an enchantment that hides his Jotun/Asgardian origin. | This is author-side backstory only. The exact date, the reason the TVA targeted him, where he is dropped, how the records are made, and how he reaches his later human life remain future planning questions. | ORIGINAL / future backstory anchor |
+| 24 Nov. 1971 | Loki, as D.B. Cooper, hijacks the Northwest Orient flight after losing a bet with Thor and returns through the Bifrost. | Eleanor Cooper, age 22, meets Loki using the name Dan Cooper during the short Earth-side period around the hijacking. Their relationship lasts days, not months; Loki does not know she becomes pregnant. | CANON + ORIGINAL addition |
+| Late Aug.–Sept. 1972; Jan. 2000 placement | Henry is born to Eleanor, is captured as an infant by the TVA during a branch/anomaly operation, and is taken by Sylvie during her simultaneous escape. She uses a damaged TemPad to drop him as an infant onto the Sacred Timeline in Queens in 2000 and conceals his Jotun/Asgardian origin. He grows normally from infancy; no magical aging. | The exact mechanism remains hidden from the early story but is now fixed in the pre-chapter continuity ledger. | ORIGINAL / locked future backstory |
 | Spring 2010 | *Iron Man 2* / *The Incredible Hulk* era, depending on which internal placement is used. | Peter is still a child in the untouched baseline. No Henry intervention is needed. | CANON |
 | 2011 | *Thor*: Thor is banished to Midgard; Loki's parentage is exposed; Loki's first attempt at taking the throne fails. | Henry's story has not yet forced itself into Asgardian history. Thor and Loki's established family history is preserved. | CANON |
 | Spring 2012 | *The Avengers*: Loki attacks New York with the Tesseract; the Avengers form publicly and defeat him. | Henry sees the event through a child's/young teenager's perspective, if it is mentioned at all. He does not fight in New York. This is an important contrast with later involvement. | CANON |
@@ -159,7 +159,7 @@ Examples of the recurring pattern, to be adapted rather than copied:
 
 - **Name:** Henry Cooper.
 - **Age at opening:** approximately 13–14; exact birth record is a future continuity clue, not an early exposition dump.
-- **Residence:** Queens, in a foster/guardian arrangement close enough to attend Midtown. He has a bed, food, school, and at least one adult contact. The story is not going to use orphanhood as an excuse for endless abuse scenes.
+- **Residence:** Queens, under long-term legal guardian Elena Reyes, who took Henry in through the foster system in 2000. He has a stable home, food, school, and an adult who worries about him. The story is not going to use orphanhood as an excuse for endless abuse scenes.
 - **Family:** his mother is dead; his biological father is absent from every ordinary record. Henry has no reason to suspect Loki at opening.
 - **School:** Midtown School of Science and Technology, same class/cohort as Peter under the small butterfly in section C.
 - **Social position:** smart enough to be bored sometimes, not a genius who solves every problem; socially functional but guarded; funny when cornered; more comfortable making a plan than discussing a feeling.
@@ -515,13 +515,16 @@ The recurring emotional rule: Peter and Henry can argue without the story treati
 
 These clues should be sparse. The audience should be able to miss them on a first read and understand them in retrospect.
 
-## J2. AOU reveal engine — working design, not full scene
+## J2. AOU reveal engine — combined evidence design
 
-The most stable current design is a **two-stage reveal inside the AOU period**:
+The reveal is a **combined scientific, documentary, and Asgardian evidence chain**:
 
-1. **Evidence:** an Asgardian, scientific, or intelligence record connects Henry's mother to the 1971 D.B. Cooper case. The record is discovered because the AOU crisis puts unusual data, objects, and people in one place; it is not created by the Mind Stone because the plot needs a genealogy.
-2. **Confirmation:** Thor and/or an Asgardian method confirms the biological relationship. The exact method remains open until the Henry-mother history is chosen. It must not depend on a random “the scepter knows everything” convenience.
-3. **Loki's reaction:** Loki learns through an immediate post-discovery contact, a private Asgardian communication, or a short aftermath scene. He does not need to stand in the middle of the Sokovia battle for the reveal to count as part of the AOU era.
+1. **Medical trigger:** a controlled Avengers-adjacent check follows a power-related injury or unusual ice reaction. Bruce/Tony's team finds that Henry's biological markers do not read as ordinary human.
+2. **Reference sample:** a sealed S.H.I.E.L.D./Avengers evidence sample from Loki's 2012 Battle of New York capture is available. This is connective evidence from cleanup, not a claim that the films show the file.
+3. **Biological match:** the comparison finds a paternal match to Loki, not merely a generic alien or Asgardian similarity.
+4. **Documentary link:** Eleanor Cooper's notebook, photograph, and metal token connect her short 1971 relationship with “Dan Cooper” to the D.B. Cooper case.
+5. **Asgardian recognition:** Thor identifies the private Asgardian truth that D.B. Cooper was Loki. The Mind Stone is not used as a genealogy oracle.
+6. **Loki's reaction:** Loki learns through an immediate post-discovery contact, a private Asgardian communication, or a short aftermath scene. He does not need to stand in the middle of the Sokovia battle for the reveal to count as part of the AOU era.
 
 The scene should preserve the AOU rhythm: a discovery, a reaction, an interruption by the continuing crisis, and a later quiet scene where the characters are forced to sit with what they learned.
 
@@ -530,18 +533,13 @@ The scene should preserve the AOU rhythm: a discovery, a reaction, an interrupti
 The intended future backstory now gives the chronology mystery a fixed spine:
 
 - Loki's relationship with Henry's mother belongs to the D.B. Cooper period.
-- The TVA later attempts to capture Henry as a baby. The exact reason remains open, but it must connect to his temporal anomaly rather than to generic “chosen one” importance.
+- Henry is born in late 1972 and is captured as an infant by the TVA during a branch/anomaly operation.
 - Sylvie is escaping at the same time. Remembering what the TVA did to her own childhood, she takes the infant during the chaos instead of allowing the TVA to keep him.
-- Sylvie drops Henry onto the Sacred Timeline and uses an enchantment to conceal his Jotun/Asgardian origin. This is why Henry can grow up inside the ordinary human world without the early story immediately identifying him as Loki's son.
+- She uses a damaged/stolen TemPad to drop Henry as an infant onto a low-visibility point on the Sacred Timeline in Queens in 2000.
+- She uses an enchantment to conceal his Jotun/Asgardian origin and dampen his temporal signature. Henry then grows normally through the foster system and into Elena Reyes's guardianship.
+- The TVA does not immediately retrieve him because the damaged transfer and concealment cause its records to classify the original anomaly as lost and the 2000 foundling as an ordinary human case.
 
-The future explanation still needs to account for:
-
-- the exact date and location of the TVA capture;
-- how Henry's Sacred Timeline placement produces his human records and current age;
-- who finds and raises him after Sylvie drops him;
-- how long the concealment enchantment lasts and what weakens it;
-- why the TVA does not simply recapture him;
-- how the truth becomes legible only after *Endgame* and *Loki*.
+The early story still hides these facts. The remaining future-design work is implementation detail: the exact hospital/archive location, the wording of the TVA file, the precise concealment behavior under later magic, and the scene in which Sylvie accepts responsibility. The capture, simultaneous escape, infant rescue, Sacred Timeline drop, concealment, and normal post-2000 growth are locked.
 
 These are implementation questions, not permission to replace the fixed backstory. The early story should plant clues without naming Sylvie, the TVA operation, or the enchantment.
 
@@ -609,18 +607,19 @@ This is the initial knowledge split. It must be updated after every major reveal
 
 These are deliberately left open rather than being papered over.
 
-1. **Henry's mother:** name, age, location, and what exactly happened to her after the D.B. Cooper encounter. The child-capture/drop premise is fixed; the mother's fate and the evidence chain still need to be designed.
-2. **Duration of Loki's Earth-side period:** the canon joke shows the hijacking and Bifrost return, but does not give a full itinerary. The relationship needs to fit without rewriting the gag into an epic secret mission.
-3. **AOU confirmation method:** scientific, magical, documentary, or combined. It must be earned and must not make the Mind Stone an all-purpose genealogy device.
-4. **Thor's access to the truth:** decide whether he learns through Asgardian archives, Heimdall, an object, or a later conversation. He must not know simply because the outline says he does.
-5. **Loki's physical availability in 2015:** he is politically and magically relevant but should not be dragged into Sokovia without a reason. An immediate aftermath contact is currently safer than putting him in the battle. Sylvie's baby-rescue backstory belongs much later and does not require her to appear in AOU.
-6. **Guardian arrangement:** select a stable, humane adult arrangement that gives Henry ordinary logistics and someone to worry about him. Avoid replacing the absent father with an abusive foster plot.
-7. **Power origin:** Henry's latent Jotun/Asgardian origin is concealed by Sylvie's enchantment. The early story can still let characters consider mutation, magic, or an unknown metahuman mechanism because the enchantment prevents the true answer from being obvious.
+1. **Eleanor's exact Portland/Seattle location and papers:** the mother is now Eleanor Cooper, age 22 in 1971, with a notebook, photograph, metal token, 1972 birth record, and an estate/archive trail after her 2008 death. The exact scene location remains an implementation choice.
+2. **Duration of Loki's Earth-side period:** the canon joke shows the hijacking and Bifrost return; the relationship remains a short period around the event, not an epic secret mission.
+3. **AOU evidence staging:** the combined medical comparison, sealed Loki sample, Eleanor papers, and Thor recognition are fixed. Exact scene order remains a packet-level choice.
+4. **Thor's access to the truth:** he learns through the combined AOU evidence and recognizes the private D.B. Cooper story; no unexplained instinct.
+5. **Loki's physical availability in 2015:** he is politically and magically relevant but should not be dragged into Sokovia without a reason. An immediate aftermath contact remains safer than putting him in the battle. Sylvie's baby-rescue backstory belongs much later and does not require her to appear in AOU.
+6. **Guardian arrangement:** fixed at long-term legal guardian Elena Reyes, who took Henry in through the 2000 foster system. The home remains stable and humane.
+7. **Power origin:** Henry's latent Jotun/Asgardian origin is concealed by Sylvie's enchantment. Early characters may consider mutation, magic, or an unknown metahuman mechanism.
 8. **Peter's exact grade:** use a working same-class placement and keep the age ambiguity in the ledger. Do not make the characters stop for a school-administration lecture about MCU date errors.
-9. **AOU participation:** decide whether Henry is at the Tower, at a support site, or involved in Sokovia evacuation. The safest baseline is Tower/evacuation support, not raid-team membership.
-10. **Source transplant boundaries:** no copied dialogue blocks, names, harem material, Gamer mechanics, or unrelated crossover cosmologies. Take functions, reassemble them, and make the resulting scene belong to Henry and the MCU.
-11. **Chapter length:** 10k is an average, not a quota. A chapter ends when its local movement is complete. If three chapters in a row only repeat “Henry trains and gets stronger,” the outline has bloated even if each chapter reaches 10k.
-12. **Losses and victories:** Henry can win when his plan and circumstances justify it. He can lose when the opponent, terrain, or information gap beats him. Neither outcome should be imposed to satisfy a formula.
+9. **AOU participation:** use Tower/controlled medical support plus evacuation/containment; Henry is not on the Strucker raid.
+10. **TVA mechanics:** late-stage facts are locked in the continuity ledger: 1972 capture, simultaneous Sylvie escape, 2000 infant drop, concealment, normal growth, and misclassified records. Exact file wording and scene order remain open.
+11. **Source transplant boundaries:** no copied dialogue blocks, names, harem material, Gamer mechanics, or unrelated crossover cosmologies. Take functions, reassemble them, and make the resulting scene belong to Henry and the MCU.
+12. **Chapter length:** 10k is an average, not a quota. A chapter ends when its local movement is complete. If three chapters in a row only repeat “Henry trains and gets stronger,” the outline has bloated even if each chapter reaches 10k.
+13. **Losses and victories:** Henry can win when his plan and circumstances justify it. He can lose when the opponent, terrain, or information gap beats him. Neither outcome should be imposed to satisfy a formula.
 
 ## Chapter-level anti-bloat rule
 
@@ -650,4 +649,4 @@ The project now has a workable foundation:
 - the age discrepancy remains a mystery until the TVA is narratively earned, with Sylvie's baby-rescue backstory reserved for the later reveal;
 - the resource bank supplies the scene logic, relationship pacing, cryomancy ladder, and QQ-style restraint.
 
-The next planning pass should lock Henry's mother/1971 evidence chain and the mechanics of the TVA capture/Sylvie drop, then produce a chapter-by-chapter Arc 1 outline. It should still not draft Chapter 1 until that outline is checked against this ledger.
+The expanded pre-chapter package now locks Eleanor Cooper's 1971 evidence chain, the combined AOU confirmation method, Elena Reyes's guardian role, and the TVA capture/2000 infant-drop mechanics at author level. The companion story bible, arc plan, character bibles, continuity ledger, resource ledger, and pre-chapter production plan hold the detailed long-form architecture. The next step is to review those documents for contradictions and then build the detailed Arc 1 chapter packet; Chapter 1 prose remains the last step.
