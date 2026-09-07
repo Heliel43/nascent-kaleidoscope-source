@@ -2938,3 +2938,376 @@ We saved.
 - Debt payoff final, gold coin loot from Abusing Tropes market gold
 - Party celebration, stew from Ghost_in_the_City + Borne_of_Caution
 - Affection progression from enchanting melody
+# Chapter 16: Healer Search
+
+We were D-rank high, Level 15, with 153 silver. Rich for frontier, but not city rich. House in Lorn City was 200 silver, we were close.
+
+But we needed healer. Party of three worked, but Brann kept taking too much damage, and my potions were expensive.
+
+"Guild has list of freelancers," Selene said, handing us board. "Healers rare, most stay in temples. But one: Elara, Level 12 Cleric, human, 22, from temple but left. Reason: disagreed with Church tithe. Motive: wants to help people without charging 10 silver per heal."
+
+That motive - from enchanting melody and Borne_of_Caution - wanting to help without church tax.
+
+"Where is she?" Lyra asked.
+
+"Last seen in Lorn City, healing poor in lower district for copper. Temple doesn't like, but guild protects."
+
+We found her in lower district, small clinic, not lavish, just clean. A woman, blonde, tired eyes, healing a child's scraped knee with faint white glow.
+
+```
+[Elara]
+Level: 12
+Class: Cleric
+HP: 250/250
+MP: 600/600
+Description: Ex-temple cleric, healing hands, dislikes church politics.
+Affection: 0/100
+```
+
+She saw us.
+
+"Adventurers?" she asked.
+
+"D-rank party, need healer," Brann said. "We pay fair, not church rates."
+
+"Fair is what?" she asked, pragmatic.
+
+"Split equal, 25% each for 4 members. Jobs 20 silver each now, so 5 silver per job per person plus loot. We have ID training space, safe."
+
+"ID?"
+
+I explained, showed empty field invite.
+
+She tried, eyes wide.
+
+"This... this would let me train healing without wasting mana on real injuries. I could practice."
+
+"So you in?" Lyra asked.
+
+Elara considered. Her motive, from resource: she had been in temple, saw how church charged poor 10 silver per heal, while rich got free. She disagreed, left, wanted to help poor but needed money to live. She had debt too? No, but had principle.
+
+"I have principle," she said. "Temple charges 10 silver per heal, poor can't pay, they die. I charge copper, temple says I'm undercutting. They threatened to excommunicate. I left. Now I heal poor for copper, but need money for rent. 5 silver per job would pay rent and let me heal poor for free rest of week."
+
+"That's good ambition," I said. "Competent, stable, help others."
+
+"Pragmatic," she said, smiling for first time.
+
+She joined.
+
+```
+Party Formed! Updated!
+Members: Lyra Quinn (Scout Lvl13), Kael Thorne (Spellblade Lvl15), Brann Ironhand (Tank Lvl14), Elara (Cleric Lvl12)
+Bonus: +10% EXP when together (4 members)
+Party Name: Still Undecided
+```
+
+We decided name: Iron Petal. Brann's iron, Lyra's Sunpetal.
+
+"Iron Petal, huh?" Elara said. "I like it."
+
+We took job to test party: D-rank dungeon, old crypt, undead, Level 12-15.
+
+We entered crypt, four of us, roles clear: Brann tank, me off-tank/spellblade, Lyra scout DPS, Elara healer.
+
+First skeleton, Level 10.
+
+```
+[Skeleton]
+Level: 10
+HP: 150
+Weakness: Blunt, Holy
+```
+
+Brann axe crushed, Elara holy light, I Mana Edge, Lyra arrow.
+
+Efficient, no damage.
+
+Second, third, same.
+
+At crypt boss, Skeleton Knight Level 16.
+
+Brann taunted, I flanked, Lyra shot, Elara healed Brann when he took -50.
+
+We killed, no one near death.
+
+```
+You have killed Skeleton Knight LVL16! 300 EXP! Party Bonus +10%!
+Level Up! Party Average -> Kael 16, Lyra 14, Brann 15, Elara 13
+```
+
+Back at guild, Selene approved.
+
+"C-rank test next week. You need to clear C-rank dungeon floor. With healer, you can."
+
+We celebrated, four of us, meat skewers again.
+
+Lyra sat next to me, Elara next to Brann, party dynamics forming.
+
+Affection: Elara 15/100 (Friendly - Colleague), Brann 45/100, Lyra 60/100 (Close - Almost Romantic).
+
+That night, I trained Elara in ID, she practiced healing light, leveling.
+
+```
+[Elara Heal LVL1 -> LVL3]
+```
+
+Progress.
+
+Tomorrow, C-rank test prep.
+
+---
+**Resource Notes:**
+- Healer search, temple, tithe, poor healing for copper from enchanting melody (church politics) + Borne_of_Caution (healer) + Ghost_in_the_City (lower district)
+- Elara motive: disagreed with church, wants help without charging from enchanting melody + Borne_of_Caution
+- Crypt, skeleton, skeleton knight, holy weakness from Game of Monsters + Isekai_Theater + Tensura undead
+- Party of four bonus +10% from Game of Monsters + A_Gamers_Grand_Journey party
+- Party name Iron Petal from Borne_of_Caution (Vulpix) + Abusing Tropes (Sunpetal)
+- Training healer in ID from Borne_of_Caution teaching
+# Chapter 17: C-Rank Exam
+
+C-rank test was in Lorn City guild, bigger dungeon: Old City Sewers Floor 2, Level 18-22 mobs, boss Level 25 estimated.
+
+We had week to prepare. We used ID training every night, party mode, grinding.
+
+[ID Create: Dungeon - Hard - Party]
+
+We cleared wolves, orcs, skeletons, trolls. Each time, Elara healed, Brann tanked, Lyra scouted, I spellbladed.
+
+Skills leveled:
+
+```
+Kael: Mana Edge LVL7 -> LVL10 (+30 dmg, now 40 total), Iron Skin LVL5 -> LVL7 (12% reduc), Aura Sense LVL2 -> LVL4 (20m), Short Sword Proficiency LVL4 -> LVL7
+Lyra: Scout Aura LVL2 -> LVL4 (speed +15%), Bow Proficiency LVL6 -> LVL8
+Brann: Axe Proficiency LVL9 -> LVL11, Tank Aura LVL2 -> LVL4 (18% reduc), Taunt LVL1 -> LVL3
+Elara: Heal LVL3 -> LVL6 (heals 150 HP), Holy Light LVL1 -> LVL3, Mana Control LVL2 -> LVL5
+```
+
+We also leveled overall:
+
+```
+Kael Level 16 -> 18
+Lyra 14 -> 16
+Brann 15 -> 17
+Elara 13 -> 15
+```
+
+Ready.
+
+Exam day: Old City Sewers Floor 2. Entrance deeper than before, smell worse, water up to knees.
+
+```
+[Dungeon: Old City Sewers Floor 2 - C Rank Exam]
+Mobs: Slime Knight, Orc Warrior, Lizardman, Giant Rat King
+Boss: Sewer Abomination Level 25
+```
+
+We entered, four, formation: Brann front, me and Lyra middle, Elara back.
+
+First mob: Lizardman Level 18.
+
+```
+[Lizardman]
+Level: 18
+HP: 350
+Weakness: Fire, Ice
+```
+
+No fire yet, but we had holy and mana edge.
+
+Brann taunted, took -40, Elara healed +100, net +60.
+
+I slashed, -50 with Mana Edge 10.
+
+Lyra shot, -40.
+
+We killed, 200 EXP.
+
+Second: Giant Rat King Level 20, bigger than cave rats, with crown of trash.
+
+```
+[Giant Rat King]
+Level: 20
+HP: 400
+Description: Leads rats, spawns adds.
+```
+
+It spawned 4 rats Level 8. We killed adds first, then king.
+
+Brann took -60, Elara healed.
+
+We cleared 10 mobs, reached boss room.
+
+Boss: Sewer Abomination, Level 25, mass of slime, trash, bones, 800 HP.
+
+```
+[Sewer Abomination]
+Level: 25
+HP: 800
+Weakness: Fire, Holy, Core (inside)
+```
+
+It roared, War Cry like orc chieftain, plus acid spray.
+
+-70 HP to party, Elara healed group with [Group Heal] new skill, +80 to all, cost 50 MP.
+
+We focused core - glowing inside mass.
+
+Brann axe, I mana edge, Lyra arrows, Elara holy light.
+
+At 400 HP, it spawned slime knights.
+
+We killed knights, then focused boss.
+
+At 100 HP, it enraged, acid spray double.
+
+Brann at 100 HP, Elara low MP, I at 500 HP, Lyra at 200.
+
+I used last MP to cast Mana Edge bright, stabbed core.
+
+Critical! -120!
+
+Boss dissolved.
+
+```
+You have killed Sewer Abomination LVL25! 600 EXP! Party Bonus +10%! C-Rank Exam Complete!
+Loot: [Abomination Core - C Rank] [Gold x2] [Sewer Key]
+Level Up! Kael 19, Lyra 17, Brann 18, Elara 16
+```
+
+We returned, exhausted, but passed.
+
+Selene checked cards.
+
+"Clear time: 4 hours 10 minutes. Fast. Most take 6-8. You pass. C-rank."
+
+```
+[Adventurer Card Updated]
+Kael Thorne Rank: C, Level 19, Class: Spellblade
+Lyra Quinn Rank: C, Level 17
+Brann Ironhand Rank: C, Level 18
+Elara Rank: C, Level 16
+Party: Iron Petal Rank: C
+New Privileges: City + Regional jobs, better loot (50% to party), can own property (with permit)
+```
+
+We were C-rank. Big jump. C-rank could take jobs up to B-rank with supervision, could own house with permit, could teach.
+
+That night, tavern celebration, but also Lyra pulled me aside.
+
+"Kael, debt paid, farm safe, C-rank now. My ambition... it changed. I want to be B-rank someday, maybe own scout guild. What about you? House?"
+
+"House, yes. 200 silver, we have 153, plus 2 gold (200 silver) from boss = 353 silver. We can buy house in Lorn City, small, 200 silver, with permit now."
+
+"House for party?"
+
+"House for us. Iron Petal base."
+
+She smiled.
+
+```
+Affection: 65/100 (Close - Romantic Interest)
+```
+
+We didn't kiss yet, but close.
+
+We saved.
+
+Tomorrow, house hunting.
+
+---
+**Resource Notes:**
+- C-rank exam, Old City Sewers Floor 2, Lizardman, Rat King, Abomination Level 25 from Game of Monsters + Tensura + Isekai_Theater + Ghost_in_the_City sewer
+- ID party training, skill leveling, group heal from Ghost_in_the_City Body XP + Borne_of_Caution training + A_Gamers_Grand_Journey ID
+- Tank/scout/spellblade/cleric formation from Ace_In_The_Hole + Borne_of_Caution + Game of Monsters
+- House permit, property from Ace_In_The_Hole + Ghost_in_the_City apartment
+- Affection progression from enchanting melody
+# Chapter 18: House Hunting
+
+House hunting in Lorn City was like market district but bigger. Being main place of commerce, all I could see around are shops, stalls and tents that offer goods and services. Wagons and caravans pulled horses or other creatures were also a common sight. And there were also plenty of people around, comparable to crowded bazaar, but daily.
+
+We had 353 silver. House small, 200 silver, permit 10 silver, plus furniture 20 silver. Total 230. We could afford.
+
+We looked at three houses:
+
+First: near lower district, cheap, 150 silver, but small, damp, near sewers we just cleared. Smelled.
+
+Second: near guild, 200 silver, two stories, stone and timber, small yard, watchtower? No, but balcony. Good.
+
+Third: near market, 250 silver, bigger, but noisy.
+
+We chose second. Near guild, pragmatic.
+
+We bought. Selene gave permit, stamped.
+
+```
+[Property Deed]
+Owner: Party Iron Petal (Kael Thorne, Lyra Quinn, Brann Ironhand, Elara)
+Address: 12 Guild Row, Lorn City
+Price: 200 Silver + 10 Silver Permit
+Remaining Money: 353 - 210 = 143 Silver (14300 Copper)
+```
+
+We moved in that day. House was spartan: plain bed, nightstand, lamp, door to tiny bathroom, like guest room in Birch lab, but ours.
+
+Everything but the bed was ignored as we flopped into it? No, we had four beds, one each room.
+
+We cleaned. Damn, when was last time we cleaned this place? We grumbled being able to look at ground we could see just how much dust and trash had been stuffed in corners.
+
+We cleaned, using ID? No, real cleaning.
+
+After, we sat in common room, four of us.
+
+"This is ours," Brann said. "First time I have place not clan hall."
+
+"Ours," Lyra said, looking at me.
+
+Elara said, "I can heal poor here for copper, have room."
+
+We had base. Like in Ghost_in_the_City where Motoko had apartment, overgrown neglected garden but home.
+
+That evening, Lyra and I went to lake again, now city lake, bigger.
+
+We talked.
+
+"House, C-rank, debt paid, farm safe. What's next?" she asked.
+
+"B-rank, maybe own shop, maybe..."
+
+"Maybe us?"
+
+She said it quietly, mature, not anime blush.
+
+I considered. Slow-burn, 65 affection, close.
+
+"I want us to be more than party," I said honestly. "If you want."
+
+"I want. I've wanted since mine, when you showed ID trust. Most people don't trust like that."
+
+We kissed, finally, at lake, moon reflecting. Not melodramatic, not forced edginess, just... earned.
+
+```
+Affection: 72/100 (Romantic - Partners)
+Quest Complete! Family Visit + Debt + House!
+Reward: Affection +15, Title: Homeowner
+```
+
+We walked back hand in hand, not hiding now.
+
+Brann saw, grunted, "Finally."
+
+Elara smiled, "About time."
+
+We saved.
+
+House, party, romance, C-rank. Arc 2 complete.
+
+Next: Arc 3 The Deep, bigger dungeon, legendary token, but for now, rest in our house.
+
+---
+**Resource Notes:**
+- House hunting market description from Abusing Tropes market + Sneaking... + Ghost_in_the_City apartment trash pit
+- House deed, permit, property from Ace_In_The_Hole + Ghost_in_the_City apartment + Borne_of_Caution lab guest room
+- Cleaning dust trash corners from Ghost_in_the_City Ch2 apartment
+- Lake kiss, mature confession, not anime trope from enchanting melody + wandering melody slow-burn + Borne_of_Caution
+- Affection 72 from enchanting melody mechanics
+- Base building from Borne_of_Caution + Ghost_in_the_City
