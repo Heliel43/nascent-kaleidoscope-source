@@ -1991,3 +1991,774 @@ Arc 2 had truly begun.
 - Class evolution Level 10 from A_Gamers_Grand_Journey + Game of Monsters + The Guild of Gamers
 - Affection progression, lake invitation from enchanting melody + wandering melody slow-burn
 - Market/pay split from Abusing Tropes market + Ghost_in_the_City eddies
+# Chapter 10: Lake Day
+
+The next day, there were no jobs. Lyra had declared it a rest day, and the guild didn't argue - after clearing a dungeon, even E-ranks got a day.
+
+"Lake, noon," she had said.
+
+The lake was north of Lornswatch, maybe twenty minutes walk. Not large, but clean, fed by a stream from the hills. On the way, we passed the old iron mine we cleared. It was already quiet, mana faded.
+
+"You know," Lyra said as we walked, her bow unstrung over shoulder, "most people who survive a party wipe quit. Go back to farming."
+
+"You said that before."
+
+"Did I? Must be my line." She glanced at me. "What's your ambition, Kael? Real one. Not 'don't die'."
+
+That was a question from another story, but I had an answer from resource too. In Borne_of_Caution, Lee's ambition was to understand, to bridge gap, to learn and understand Pokemon, not just use them. In Ghost_in_the_City, Motoko's ambition was to be competent, to be able to protect herself, to not be trapped inside anymore.
+
+I thought about it.
+
+"I want to be competent," I said honestly. "Not god, not legend. Just... someone who can handle what comes, who doesn't need rescuing every time. And I want to build something stable. A place, maybe. Not running."
+
+She nodded, as if that was a good answer. "Pragmatic. Mine is simpler: pay debt, keep farm. My family had a small farm south of here, near Lorn's lands. Failed harvest two years ago, blight. We took loan from Guild. Forty silver. My father couldn't pay, so I took it. If I don't pay in two years, they take farm."
+
+That was from Borne_of_Caution? No, that was her own, but edited from similar debt stories in Ghost_in_the_City and enchanting melody family debt.
+
+"That's why you scout? Better pay than farming?"
+
+"Scouting pays better than farming, and I don't have to watch my mother cry over dead wheat." She said it flatly, not melodramatic. Grounded.
+
+We reached the lake. It was pretty - not sakura tree pretty, but natural. The water was clear, cold. A few other adventurers were there, washing gear.
+
+We found a spot a little away. Lyra started taking off her leather armor, down to undershirt and shorts, without self-consciousness. Practical.
+
+"You should wash that sword," she said. "And yourself. You smell like slime queen."
+
+"I do not."
+
+"You do."
+
+I laughed, took off my own outer shirt, rinsed it in lake. The water was cold enough to make me gasp. My HP didn't drop, but SP did from cold.
+
+-5 SP from cold.
+
+Lyra waded in to knees, washing her bow, her knives.
+
+"You know," she said, not looking at me, "when I found you in forest, I thought you were another idiot F-rank who would die in a week. Most do."
+
+"Thanks for the vote of confidence."
+
+"But you didn't. You learned. You killed alpha, you learned mana in two days, you cleared dungeon at Level 10. That's... not normal."
+
+"Blessed, remember?"
+
+"Blessed or not, you still have to do work. I've seen blessed idiots die because they thought blessing meant they didn't have to train."
+
+She washed her hair, brown hair dark when wet.
+
+I used Observe, not on her - that would be creepy - but on lake.
+
+```
+[Lorn's Lake]
+Description: Freshwater lake, fed by hill stream. Clean, cold. Contains small fish, not monsters.
+```
+
+She saw me looking.
+
+"See anything interesting?"
+
+"Fish. Small. Not monsters."
+
+"Good. Last year, slime got in and ate three ducks. Had to clear it."
+
+We washed gear in silence for a while. It was comfortable silence, not awkward. Like in Ghost_in_the_City, when Motoko and Jun ate ramen together and settled in to listen to guide. Dinner coming to you, settling in.
+
+After, we sat on bank, letting sun dry us.
+
+"You said you want to build something stable," Lyra said. "What would you build?"
+
+"Shop? House? Place where people like us can rest without paying Rowan two copper a night."
+
+"Guild already does that."
+
+"Guild charges. I mean... something owned. Not big. Just... ours?"
+
+Ours. I hadn't meant to say ours. I meant mine.
+
+Lyra didn't comment on word choice, but her Affection ticked.
+
+```
+Affection: 28/100 (Friendly - Trust)
+```
+
+"That's expensive," she said. "House in Lornswatch is 50 silver. In Lorn City, 200 silver."
+
+"I know. Long term."
+
+"Long term is good. Most adventurers don't think long term. They think next job, next drink."
+
+We sat until our gear was mostly dry. Then walked back, gear cleaner, smelling less like slime.
+
+At gate, she said, "Tomorrow, I'm taking escort job to Lorn City. Three days. You can come if you want. Pay is 8 silver each, plus we can look at city guild. Might be time for you to see bigger place."
+
+Lorn City. The next step. Bigger market, bigger dungeons, D-rank test.
+
+"I'm in."
+
+"Good. Meet at dawn. Bring your mana manual, you'll need to read on road."
+
+She left. I went to my room, practiced Mana Edge until MP ran out, slept two hours, restored.
+
+```
+[Mana Edge LVL1 -> LVL3] +15 damage
+[Iron Skin LVL2 -> LVL3] 8% reduction
+```
+
+Progress, slow but earned.
+
+I saved.
+
+---
+**Resource Notes:**
+- Lake description, washing gear, cold water, debt/farm ambition from Borne_of_Caution (farm, debt, family) + Ghost_in_the_City (philosophical lake, sakura tree, washing, apartment)
+- Ambition dialogue "want to be competent, not trapped" from Ghost_in_the_City Ch2 "I felt... Normal" + "Not be trapped inside anymore"
+- Debt 40 silver, farm failed harvest from enchanting melody family debt + Borne_of_Caution
+- Comfortable silence, ramen dinner, settling in from Ghost_in_the_City
+- Affection tick from enchanting melody social mechanics
+# Chapter 11: Escort to Lorn
+
+Morning arrived, and as agreed, we headed to the Adventurer's Guild. For a group that relied so much on paperwork and procedures, they were surprisingly understanding about the circumstances. We received our escort papers, plus a commendation for taking city job.
+
+The person we were escorting was not what I expected: a merchant's daughter, maybe 14, with two guards, going to Lorn City for schooling. Not a caravan, just a small group.
+
+"The road to Lorn City is two days. Bandits sometimes, wolves sometimes. E-rank job but with D-rank pay because of child," Mira said, stamping our cards. "Don't lose her."
+
+We set out at dawn. The road was better than forest trails - packed dirt, with mile markers.
+
+The girl, Elsie, was quiet at first, then curious.
+
+"Are you blessed?" she asked me after an hour.
+
+"Why do you ask?"
+
+"Your eyes glow blue when you use sword. My tutor said blessed people glow."
+
+"Something like that. I train hard too."
+
+Lyra snorted. "He does pushups in his sleep."
+
+"I do not."
+
+"You mutter about Body XP."
+
+I froze. Did I?
+
+Elsie giggled. First time she laughed.
+
+The first day was uneventful. We camped near road, Lyra showing me how to set up camp efficiently - not like in Ghost_in_the_City where Motoko had to learn apartment was trash pit, but similar pragmatic survival.
+
+"Fire here, not too close to trees. Watch for Ironbark, poor kindling, use dry moss," she instructed.
+
+I used Mana Light for fire starting - inefficient, 10 MP, but worked.
+
+Night, we took watches. My watch, I practiced Mana Control, trying to sense around.
+
+```
+[Aura Sense LVL1 -> LVL2] - Range 5m -> 10m
+```
+
+I could sense Lyra sleeping, steady breathing, mana faint green. Elsie, smaller, mana faint white. Guards, no mana, just SP.
+
+Second day, wolves. Not Dire Wolves, just normal wolves, Level 3, three of them.
+
+We killed them quickly. Lyra arrow, me sword with Mana Edge.
+
+```
+You have killed Wolf x3! 60 EXP!
+```
+
+Elsie watched, eyes wide, not scared.
+
+"You're good," she said.
+
+"We try," Lyra said.
+
+By evening of second day, we saw Lorn City. It was not grand like in stories, but bigger than Lornswatch. Walls of stone, not palisade. Market that was actually daily. Guild building three stories, not two.
+
+The adventurer's guild was a grand building, eye-catching in the peculiar way that government buildings were. Stately, was the word people often used. Big and officious, to intimidate as much as impress. It was three stories, stone and timber, with a watchtower covered in notice boards that actually had hundreds of notices.
+
+"You'll be wanting the adventurer's guild. Take a turn at the next intersection, and it'd be near the end of the street. Look for that tower," Lyra said, but we already saw it.
+
+Inside, it was busy. Dozens of adventurers, from F to B rank, arguing, drinking, counting.
+
+The wavy-haired employee - different Mira, older - coughed into a fist to draw our gaze, before giving us a gentle smile. "Welcome to the adventurer's guild. My name is Selene, a guild receptionist. How may I help you today?"
+
+We turned in escort completion. Pay: 8 silver each.
+
+```
+Money: 415 Copper + 800 Copper = 1215 Copper (12 Silver 15 Copper)
+```
+
+Rich, for us.
+
+Elsie's father met us, paid extra 2 silver tip for safe delivery.
+
+"Thank you," Elsie said to us, before leaving. "Will you be here when I go back?"
+
+"Maybe," Lyra said. "If guild needs us."
+
+We got a room in city - 5 copper a night, more expensive, but cleaner. Two beds.
+
+That night, Lyra and I talked.
+
+"City guild has D-rank test tomorrow," she said. "We should take it. Both of us. If we pass, we can take better jobs, better pay. Your Spellblade will be useful."
+
+"What test?"
+
+"Usually, clear a D-rank dungeon floor or spar with C-rank. Could be either."
+
+"Can we pass?"
+
+"We cleared E-rank mine boss Level 12 at Level 10. D-rank is Level 15-20 boss. With two Level 12s, maybe. If we prepare."
+
+She looked at me. "Your ID training - can you train me in it? You said safe space?"
+
+I hesitated. ID was my cheat, but Lyra trusted me.
+
+"I can try. ID Create needs me to invite. Let's try."
+
+[ID Create: Empty Field - Invite Lyra Quinn? Y/N]
+
+I pressed Yes.
+
+World shifted. We were in empty field, grey sky, Lyra next to me, eyes wide.
+
+"Holy shit," she whispered. "You weren't lying."
+
+"This is Empty Field. No mobs. Safe. I train here."
+
+She looked around, touched grass, felt real.
+
+"Can you make wolves?"
+
+[ID Create: Forest - Easy - Party Mode?]
+
+Wolves appeared.
+
+She drew bow, shot one. It dissolved.
+
+"This is broken," she said, grinning. "We can train here all night and no one dies."
+
+"We still get tired, SP drops, but sleep restores."
+
+"This will cut months off training."
+
+We trained for two hours real time, maybe 6 hours ID time. She leveled Scout skill, I leveled Mana Edge.
+
+```
+[Mana Edge LVL3 -> LVL5] +20 damage
+[Scout Aura LVL1 -> LVL2] Lyra
+```
+
+We escaped, both exhausted but excited.
+
+"This changes things," Lyra said, lying on her bed. "We can be D-rank in a week, not a month."
+
+"Pragmatic."
+
+"Pragmatic," she agreed, smiling.
+
+Affection: 32/100 (Friendly - Partner)
+
+We slept.
+
+---
+**Resource Notes:**
+- Escort job, road, camping, fire, Ironbark poor kindling from Borne_of_Caution + Ghost_in_the_City + The_Hobbit_A_Most
+- City description grand building stately from Sneaking... + Abusing Tropes market
+- Guild receptionist Selene dialogue from Sneaking... Luna/Mira
+- Elsie child curiosity, blessed glow from enchanting melody child + A_Nascent_Kaleidoscope
+- ID party mode training from A_Gamers_Grand_Journey ID Create + Borne_of_Caution training logs
+- Aura Sense leveling from Ghost_in_the_City Body XP
+# Chapter 12: D-Rank Test
+
+The next morning we woke up just like we had been since the hospital feeling great and ready to start my day.
+
+City inn was better - no straw, actual mattress. But same principle: sleep two hours, full restore. I was abusing it, but logically.
+
+Guild was crowded at dawn. D-rank test board had list:
+
+- Spar with C-rank instructor (combat)
+- Clear D-rank dungeon floor: Old Sewers - Slime nest (investigation)
+- Gather 20 Ironbloom herbs in dangerous zone (gathering)
+
+Lyra pointed to second. "Old Sewers. We know slimes. We have advantage."
+
+We applied. Selene stamped.
+
+"D-rank test: Old Sewers, Floor 1, clear 10 slimes + 1 Slime Knight. Pay is test, no money, but promotion if pass. You have 6 hours."
+
+Old Sewers were under Lorn City, old drainage that became dungeon after city expanded. Smelled terrible.
+
+We entered, Mana Light up, Aura Sense up.
+
+```
+[Dungeon: Old Sewers - D Rank Test]
+Mobs: Slime, Slime Knight, Rat
+Boss: None (Test)
+```
+
+First slime, Level 8. Bigger than before.
+
+```
+[Slime]
+Level: 8
+HP: 120
+Weakness: Fire, Piercing
+```
+
+We killed it, Mana Edge doing extra.
+
+Second, third, same.
+
+At fifth slime, we found Slime Knight.
+
+```
+[Slime Knight]
+Level: 15
+HP: 300
+Description: Slime that has absorbed armor and weapon, tougher, smarter.
+```
+
+Level 15, higher than us (Level 12). But we had ID training.
+
+It charged, rusted sword swinging.
+
+I activated Iron Skin (8% reduction) + Mana Edge (20 damage) and parried.
+
+-35 HP to me, reduced to -32. Manageable.
+
+Lyra shot joints - slime knight had armor, but joints exposed slime.
+
+-40 HP to knight!
+
+We kited. I tanked, she DPS, same as mine boss.
+
+At 100 HP, knight enraged, spawned two slimes.
+
+We killed adds, then focused knight.
+
+Critical! Lyra arrow through eye slit.
+
+-80 HP! Knight dissolved.
+
+```
+You have killed Slime Knight LVL15! 250 EXP! Test objective!
+```
+
+We cleared 10 slimes total after another hour.
+
+```
+Test Complete! D-Rank Requirements Met!
+Return to Guild!
+```
+
+Back at guild, Selene checked our cards.
+
+"Clear time: 3 hours 20 minutes. Fast. Most take 5-6. You pass."
+
+```
+[Adventurer Card Updated]
+Name: Kael Thorne
+Rank: D
+Level: 13 (from EXP)
+Class: Spellblade
+Promotion Points: 100/100 -> D Rank Achieved!
+New Privileges: City jobs, better loot rights, can form party (max 4)
+```
+
+Lyra also D-rank, Level 13.
+
+We were officially not guild rats anymore.
+
+That evening, we celebrated with city tavern food - not just stew, but actual meat skewers. Like in Ghost_in_the_City, where vendor was cooking up some sort of meat balls on a stick right outside the door. Did I have any idea what they were? Nope. But they weren't ants. I spent a couple eddies - copper - on buying one.
+
+"So, D-rank," Lyra said, eating skewer. "We can now take jobs up to C-rank with supervision, and we can form party."
+
+"Party?"
+
+"Yeah. Max 4. We have 2. Should we find more?"
+
+"Maybe. Brann? You mentioned him before."
+
+"Brann Ironhand. Dwarf, tank, Level 14, axe. Good guy, but drinks too much. Owes me favor."
+
+"Dwarf tank would be useful. We have scout and spellblade, need tank and healer."
+
+"Healer is rare. Most healers stay in temples. But we can find."
+
+We talked about future. House in city is 200 silver, far, but with D-rank pay (10-20 silver per job), reachable in months, not years.
+
+Lyra's ambition: pay debt (now 20 silver left, down from 40), keep farm. My ambition: competence, stable place.
+
+Both pragmatic, not "become god" or "harem king". Grounded.
+
+After dinner, we went back to inn. Lyra was quiet.
+
+"Kael," she said, "when I invited you to ID, that was... trust. I don't show that to many."
+
+"I know."
+
+"I want to show you something else. My farm. It's south, half day from Lornswatch. My family is there. If we have day off after test, we could go. You could see why I work."
+
+That was big. Meeting family.
+
+"I'd like that," I said.
+
+```
+Affection: 38/100 (Friendly - Close)
+Quest Alert!
+Quest: Family Visit
+Objective: Visit Lyra's family farm
+Reward: Affection +10, Understanding of Lyra's motives
+```
+
+She smiled, real smile.
+
+We slept. Two hours, full restore.
+
+Tomorrow, farm visit, then maybe new party member.
+
+Progress, earned.
+
+---
+**Resource Notes:**
+- D-rank test board, Old Sewers, Slime Knight Level 15 from Isekai_Theater guild test + A_Gamers_Grand_Journey dungeon + Game of Monsters boss
+- Combat: Iron Skin + Mana Edge + kiting from Duelist.txt + Black_Star.txt + Ghost_in_the_City training
+- City tavern meatballs on a stick from Ghost_in_the_City Ch2 vendor
+- Party formation, max 4, tank/healer need from Borne_of_Caution team building + Ace_In_The_Hole party + Sneaking... party
+- Farm visit invitation, debt motive from Borne_of_Caution family + enchanting melody
+- Pragmatic ambition dialogue from Ghost_in_the_City "Not be trapped" + Borne_of_Caution "understand"
+# Chapter 13: Family Farm
+
+It is a strange feeling, to wake without any memories to visit of the days before. Because waking in that field didn't count. Waking in a bed was a completely different experience to waking in the dead of night, battered, dressed in tattered, dirty clothing, and all alone in a field. For one, I was warm, for another, I wasn't confused as to how I came to be here.
+
+That was how Lyra described her farm when we approached it the next morning. Half day south from Lornswatch, down a road that was more mud than road.
+
+"It is a strange feeling," she said, "to come back here after months in city. Because working in city doesn't count. Working in field is different."
+
+The farm was small. Not the lavish decor from gold-encrusted chandeliers, but honest. A house of timber and thatch, a barn leaning slightly, fields of wheat that were... recovering. Last year's blight had hit hard, she said. The family had taken loan.
+
+"Long and short, if you have a car, you either have serious money or serious debt," she muttered, quoting some other world. "For us, debt. Forty silver. Failed harvest two years ago, blight. We took loan from Guild."
+
+Her family: mother, father, younger brother maybe 12. They saw her coming and came out.
+
+"Lyra!" Her mother, tired eyes but smiling, hugged her. "You brought friend?"
+
+"This is Kael. Party member. D-rank now."
+
+Her father assessed me like Guildmaster had. "D-rank, huh? Good. You paying debt?"
+
+"Half paid. Twenty left. Will pay by winter."
+
+"Good." He looked at me. "You helping?"
+
+"Trying."
+
+We were invited inside. The house was small, but clean. Laid on the table in attractive, earthenware plates and dishes were boiled eggs, and bright red tomatoes the size of my fist. A large joint of home-cured ham, from which several slices had already been carved ready to serve, and cold, cooked sausages. Fresh baked bread, still warm, rested waiting to be cut and a dish of soft, golden butter sat to the side of it, along with tiny bowls of bright red jam and amber coloured honey. It was more food than I expected from a debt-ridden farm, but it was probably for us.
+
+"Eat," her mother said. "You must be hungry from road."
+
+We ate. The bread was warm and coaxed the golden butter to begin to melt. Oil from the butter dripping down my fingers when I was too slow to eat it. The ham was sweet with its honey glaze, salty in a way not even the sausages could emulate, and came apart easily in my hands when cutlery took too long.
+
+Lyra's brother stared at my sword.
+
+"Are you blessed?" he asked, same as Elsie.
+
+"Something like that."
+
+"Lyra says you can make safe space to train."
+
+"ID. Yes."
+
+"Can you show?"
+
+Lyra shook her head. "Not here. City thing."
+
+After meal, her father took us to fields. Wheat, young, green, but thin in places where blight had been.
+
+"We had to burn half field last year," he said. "Blight spread fast. Guild loan helped buy new seed, but now debt. Lyra's scouting pays better than farming, so she goes."
+
+"Why not both?" I asked.
+
+"Farm needs hands. But scouting needs hands too. We manage."
+
+I used Observe on wheat.
+
+```
+[Wheat - Recovering]
+Description: Previously blighted, now recovering. Needs weeding, water.
+```
+
+"I can help weed," I said. "For today."
+
+We spent afternoon weeding. SP draining, END ticking up.
+
+```
++30 END EXP
+```
+
+Lyra worked beside me, not talking much, just working. Her mother watched from house, smiling.
+
+At evening, her father said, "You know, Lyra, if you keep D-rank, you could pay debt by winter and have extra for new tools. That would be good."
+
+"I know, father."
+
+"And maybe... maybe you could stay longer next time? Your mother misses you."
+
+Lyra's jaw tightened, but not angry. Pragmatic.
+
+"I will. After I pay debt, I will visit more. Maybe bring Kael again, if he doesn't die."
+
+Her father laughed, short.
+
+"Don't die, Kael. My daughter needs partner who doesn't die. Last two did."
+
+"I'll try."
+
+That night, we slept in barn, on hay. Not as good as inn, but okay. Lyra was quiet.
+
+"Thank you for coming," she whispered in dark.
+
+"Thank you for inviting."
+
+"My family... they are why I do this. Not for glory. For them. Forty silver is lot, but farm is more. If we lose farm, we lose everything. No legal ID here? No, we have ID, but no land. Land is everything."
+
+"I understand. My ambition is competence, stable place. Yours is family, farm. Both grounded."
+
+"Both pragmatic."
+
+She was close in hay, shoulder touching mine, like at tavern after dungeon.
+
+```
+Affection: 45/100 (Friendly - Close - Trusting)
+```
+
+We didn't kiss. Slow-burn, mature. Not anime trope. Just trust, building.
+
+Morning, we left early, her mother giving us bread and jam for road.
+
+"Come again," she said to me. "Bring appetite."
+
+We walked back to Lornswatch, then to Lorn City. On road, Lyra said, "Brann is in city. We should find him. Party of three is better than two."
+
+"Party of three?"
+
+"Yeah. Tank, scout, spellblade. Need healer, but tank is start."
+
+We reached city by evening, found Brann in tavern - dwarf, as described, broad, beard, axe that looked like it had seen use, drinking.
+
+"Lyra!" He boomed. "You paid debt yet?"
+
+"Half. You still drink too much?"
+
+"Never enough." He saw me. "Who's this? New boy?"
+
+"Kael Thorne. D-rank spellblade. My party."
+
+Brann assessed me, like everyone did. "Spellblade? Rare. Good. Need tank?"
+
+"We need tank."
+
+"I need money. My clan... well, long story. Debt too, like everyone. My clan's forge failed, need 100 silver to restart. I'm at 60."
+
+Another debt motive, from resource: family, clan, forge, debt. From Borne_of_Caution and Yakuza and Ghost_in_the_City.
+
+"So we all have debt," I said.
+
+"Pragmatic," Lyra and Brann said together, then laughed.
+
+Brann joined. Party of three.
+
+```
+Party Formed!
+Members: Lyra Quinn (Scout Lvl13), Kael Thorne (Spellblade Lvl13), Brann Ironhand (Tank Lvl14)
+Party Name: Undecided
+Bonus: +5% EXP when together
+```
+
+We decided name later.
+
+That night, we took job: escort ore shipment, 15 silver each, D-rank, three days.
+
+We set out tomorrow.
+
+Progress.
+
+---
+**Resource Notes:**
+- Farm description, debt 40 silver, blight, family, bread/ham/butter feast from The_Hobbit_A_Most (Bilbo's breakfast) + Borne_of_Caution farm/family + enchanting melody family debt
+- "Long and short, if you have a car, you either have serious money or serious debt" from Borne_of_Caution
+- Weeding, END EXP from Ghost_in_the_City grinding
+- Barn sleeping, trust dialogue from Ghost_in_the_City + Borne_of_Caution
+- Brann Ironhand tank, clan forge debt 100 silver from Yakuza.txt + Borne_of_Caution + Ace_In_The_Hole
+- Party formation bonus from A_Gamers_Grand_Journey + Game of Monsters
+# Chapter 14: Party of Three
+
+The next morning we woke up just like we had been since the hospital feeling great and ready to start my day.
+
+City inn, three beds now. Brann snored like a forge bellows.
+
+"Up, dwarf," Lyra said, kicking his bed. "Job at dawn."
+
+"Five more minutes," he grumbled.
+
+"Ore shipment doesn't wait."
+
+We headed to guild. Selene gave us papers: escort iron ore from Lorn City mine to Lornswatch smithy. Three carts, six guards, plus us three as adventurer escort. D-rank job, 15 silver each, three days round trip.
+
+"Bandits possible, wolves possible, slimes possible. Don't lose ore," she said.
+
+We set out. Carts creaked, guards bored.
+
+Brann walked beside me, axe over shoulder.
+
+"So, spellblade," he said. "Rare class. How'd you get?"
+
+"Level 10 evolution, Mana Control 5+. Luck plus training."
+
+"Training, huh? Lyra says you have safe space."
+
+"ID. I can show you tonight, if you want."
+
+"Safe space to train? That would cut months off my debt." His motive: clan forge, 100 silver, at 60. He needed 40 more. This job gave 15, so 25 left after.
+
+"Your clan forge?" I asked.
+
+"Yeah. Ironhand clan, small, near mountains. Forge failed last winter, crack in anvil, bad ore batch. Need new anvil, 100 silver. I left to earn. Most dwarves stay, but I... I wanted to see city, not just mountain. My father said I'm stubborn. Like you, Lyra says."
+
+Lyra, ahead, heard. "He is stubborn. Like you."
+
+"I'm not stubborn," I said.
+
+"You're stubborn about pushups," Brann said.
+
+"I do pushups efficiently."
+
+We laughed. Party dynamics forming - like in Borne_of_Caution where Lee and Vulpix and others had banter, or in Ghost_in_the_City where Motoko and Jun and Hiromi had comfortable teasing.
+
+First day uneventful, except for Brann's stories. He told of forge, of clan, of how dwarves have serious money or serious debt, same line.
+
+Second day, bandits. Three, Level 8-10, with bows.
+
+```
+[Bandit]
+Level: 9
+HP: 180
+Description: Desperate, not skilled, but dangerous in numbers.
+```
+
+They tried to stop carts, demanding ore.
+
+Lyra shot first, arrow taking one in leg. Brann charged, axe swinging, tank style - he activated [Iron Skin] too, but his was better, Dwarven version, 15% reduction.
+
+I used Mana Edge, flanked, killed second.
+
+Third surrendered.
+
+Guards tied him, to be taken to city.
+
+```
+You have killed Bandit x2! 120 EXP!
+Loot: [Bandit Dagger x2] [Copper x30]
+```
+
+We camped that night, and I showed Brann ID.
+
+[ID Create: Empty Field - Invite Brann Ironhand? Y/N] Yes.
+
+He appeared in empty field, eyes wide.
+
+"By Moradin's beard... this is... this is training hall of gods."
+
+"It's just empty field. But we can make it forest, cave."
+
+We made forest, wolves, trained. Brann's axe skill leveled fast - he was already Level 8 Axe, went to 9.
+
+```
+[Brann Axe Proficiency LVL8 -> LVL9]
+```
+
+We escaped, slept.
+
+Third day, back in Lornswatch, delivered ore. Smithy paid, guild paid us.
+
+```
+Money: 1215 Copper + 1500 Copper = 2715 Copper (27 Silver 15 Copper)
+```
+
+Rich.
+
+Brann's debt: 40 left, now 25 left after 15.
+
+Lyra's debt: 20 left, now 5 left after 15! Almost done.
+
+Mine: 0 debt, plus savings.
+
+We celebrated in tavern, Rowan giving free stew again.
+
+"Party of three works," Brann said. "We need healer, but we work."
+
+"Next job, bigger dungeon?" Lyra suggested. "D-rank dungeon south, old fort, goblins and maybe orc. Pay 20 silver each."
+
+"Let's take day off first," I said. "We just did three days."
+
+"Pragmatic," they both said.
+
+We took day off, training in ID, Brann learning Mana Edge? No, dwarves use different aura, but he learned.
+
+I leveled:
+
+```
+Level Up! Level 14!
+[Mana Edge LVL5 -> LVL7] +25 damage
+[Iron Skin LVL3 -> LVL5] 10% reduction
+```
+
+Lyra leveled Scout aura.
+
+Brann leveled Tank aura.
+
+Party bonus: +5% EXP when together, we had.
+
+That evening, Lyra and I walked to lake again, alone this time, Brann snoring in inn.
+
+"Debt almost paid," she said. "Five silver left. After next job, free."
+
+"Then what? Farm?"
+
+"Farm, but also... I want to keep adventuring. I like it. Not just debt. I like being competent, like you. Being scout, not just farm girl."
+
+"So ambition changes? From debt to competence?"
+
+"Both. Pay debt, keep farm, but also be good scout. Maybe C-rank someday."
+
+"Good ambition."
+
+She looked at me, lake reflecting moon.
+
+"Kael, when we first met, I thought you'd die. Now... I think you might be partner for long time."
+
+"Long term?"
+
+"Long term."
+
+```
+Affection: 52/100 (Close - Partner)
+```
+
+We didn't kiss yet. Slow-burn. Mature. Earned.
+
+We walked back, holding hands briefly, then letting go before gate, pragmatic.
+
+Tomorrow, old fort dungeon.
+
+---
+**Resource Notes:**
+- Escort ore, bandits, tank/scout/spellblade party dynamics from Ace_In_The_Hole + Borne_of_Caution + Ghost_in_the_City + Yakuza
+- Brann clan forge debt 100 silver, stubborn, dwarf from Yakuza + The_Hobbit + Borne_of_Caution
+- ID training with party, axe leveling from A_Gamers_Grand_Journey + Ghost_in_the_City
+- Debt payoff progression, pragmatic ambition evolution from Borne_of_Caution + Ghost_in_the_City + enchanting melody
+- Lake walk, hand holding, slow-burn from enchanting melody + wandering melody
+- Party bonus from Game of Monsters
