@@ -3311,8 +3311,6 @@ Next: Arc 3 The Deep, bigger dungeon, legendary token, but for now, rest in our 
 - Lake kiss, mature confession, not anime trope from enchanting melody + wandering melody slow-burn + Borne_of_Caution
 - Affection 72 from enchanting melody mechanics
 - Base building from Borne_of_Caution + Ghost_in_the_City
-<<<<<<< HEAD
-=======
 # Chapter 19: The Deep - Old Fort Floor 2
 
 We had house, C-rank, party of four. Next step: B-rank needed 500 promotion points, we had 100. Need bigger jobs.
@@ -3660,4 +3658,260 @@ Party ready for B-rank.
 - Worry, caring dialogue from Ghost_in_the_City (Hiromi/Jun) + enchanting melody + Borne_of_Caution Vulpix caring
 - Lake talk, affection 80 from wandering melody + enchanting melody slow-burn
 - B-rank test prep from Isekai_Theater + Game of Monsters
->>>>>>> 90f97cc (Arc3 The Deep Ch19-21 - Old Fort Floor2, Hobgoblin Lord 25, Injury & Recovery, Affection 80 - 26k words)
+# Chapter 22: Legendary Token
+
+We had cleared Old Fort Floor 2, got Firebolt, Iron Skin II, 420 silver. But we still had promotion points 450/500 to B-rank. Need one more big job.
+
+Guild had special: C-rank dungeon core retrieval, Old Fort Floor 3, boss Level 28, reward: 50 silver each + **Legendary Gacha Token** (Guild had one from old adventurer, offering as bonus for B-rank test).
+
+Legendary Gacha Token - from A_Gamers_Grand_Journey, highest tier, gives random legendary skill, item, or perk. Rank EX. In original, Asmodeus got it at Level 1, broken. Here, delayed to Level 22, earned.
+
+We took it.
+
+Old Fort Floor 3 was deeper, darker, mana denser. Walls wept mana like in Tensura where walls wept fire.
+
+```
+[Dungeon: Old Fort Floor 3 - C Rank+ / B Rank Test]
+Mobs: Orc Warlord, Ogre Mage, Goblin King, Lizardman Chief
+Boss: Dungeon Core Guardian Level 28
+Status: Unstable, core active
+```
+
+First room: Ogre Mage Level 20, caster, plus Orc Warlord Level 22.
+
+```
+[Ogre Mage]
+Level: 20
+HP: 400
+Description: Ogre that learned magic, fireball, earth wall.
+```
+
+Ogre Mage cast earth wall, blocking Brann.
+
+I Firebolt LVL3 - 70+70=140 damage, broke wall.
+
+Lyra shot mage, -60.
+
+Brann taunted warlord, took -90, Elara healed +150.
+
+We killed mage, then warlord.
+
+```
+You have killed Ogre Mage + Orc Warlord! 600 EXP!
+```
+
+Second room: Goblin King Level 24, bigger than lord, with crown, staff, plus 4 goblin lords Level 22? No, 2.
+
+Goblin King cast [Goblin Army II], spawned 6 goblins Level 12.
+
+We focused king, ignoring adds, Elara group healed.
+
+King at 300 HP, enraged, summoned 8 goblins.
+
+We killed adds with Firebolt AoE? Firebolt single, but Mana Edge AoE? Not yet.
+
+We killed king.
+
+```
+You have killed Goblin King LVL24! 600 EXP!
+Loot: [Goblin King Crown - B Rank] [Gold x4]
+Level Up! Kael 23, Lyra 21, Brann 22, Elara 20
+```
+
+Boss door, big, stone, pulsing with core light.
+
+Inside, Dungeon Core Guardian.
+
+```
+[Dungeon Core Guardian]
+Level: 28
+HP: 1000
+Description: Protector of core, made of stone and mana, weak to fire and holy, core inside chest.
+```
+
+It was big, 10 feet, stone golem with mana crystal chest.
+
+We buffed: Iron Skin II 15%, Mana Edge LVL10 +30, Scout Aura +15% speed, Tank Aura 18%, Holy Light.
+
+We entered.
+
+Guardian roared, War Cry + Stone Skin (+20% defense).
+
+Brann taunted, took -100, Elara healed +150.
+
+I Firebolt core chest, -140, effective.
+
+Lyra shot joints, -50.
+
+Guardian smashed ground, AoE -60 to all, Elara group healed +80.
+
+At 600 HP, guardian summoned stone golems Level 18, two.
+
+We killed golems, then focused guardian.
+
+At 200 HP, guardian enraged, core exposed, +30% damage, -20% defense.
+
+Brann at 100 HP, Elara low MP, I at 400 HP.
+
+I used last MP Firebolt + Mana Edge combo, -140 + -70 = -210, critical, guardian at -10.
+
+It dissolved, core fragment large.
+
+```
+You have killed Dungeon Core Guardian LVL28! 800 EXP! B-Rank Test Complete!
+Loot: [Large Dungeon Core - B Rank] [Gold x5] [Legendary Gacha Token - EX] [Skill Book: Fireball]
+Level Up! Kael 24, Lyra 22, Brann 23, Elara 21
+```
+
+Legendary Gacha Token! Rank EX, highest tier, gives random legendary skill, item, or perk.
+
+We returned, Selene: "Clear time 6 hours, fast. Most take 8-10. Promotion points 300 each, total 750/500 to B-rank. You are now B-rank."
+
+```
+[Adventurer Card Updated]
+Kael Thorne Rank: B, Level 24, Class: Spellblade
+Lyra Quinn Rank: B, Level 22
+Brann Ironhand Rank: B, Level 23
+Elara Rank: B, Level 21
+Party Iron Petal Rank: B
+```
+
+B-rank! Big. B-rank could take A-rank jobs with supervision, own shop, teach, etc.
+
+Pay: 50 silver each + loot: Gold x9 = 900 silver = 225 each + core large 50 silver = 25 each + crown 100 silver = 25 each.
+
+```
+Money: 420 + 50 + 225 + 25 + 25 = 745 Silver
+```
+
+Rich.
+
+Now token.
+
+We went to house, four of us, token on table, golden ticket with capital G.
+
+"I was tempted to use it now but decided to put it on hold for later," original Asmodeus said, but we will use now, earned.
+
+I used.
+
+```
+[Legendary Gacha Token - EX] Used!
+Rolling...
+Result: Skill - [Phoenix Flame LVL1] - Legendary Fire Magic, heals user 10% HP on cast, damage 200 + MAG*3, cost 50 MP, cooldown 30 sec, Rank EX
+```
+
+Phoenix Flame! Legendary, heals + damage, perfect for spellblade.
+
+```
+Skill Acquired! [Phoenix Flame LVL1] - Legendary!
+```
+
+I tried, blue then red flame, phoenix shape, healed 10% HP (130 HP) and damaged dummy 200+105=305 damage.
+
+Broken, but earned at Level 24, not Level 1, so balanced.
+
+Lyra: "That's... that's legendary. Most B-ranks never get legendary."
+
+Brann: "Good. We need for next arc."
+
+Elara: "Heal plus damage, perfect."
+
+We saved.
+
+Tomorrow, Arc 4 politics, but for now, B-rank celebration.
+
+---
+**Resource Notes:**
+- Old Fort Floor 3, Ogre Mage, Goblin King, Dungeon Core Guardian Level 28 from Tensura + Game of Monsters + A_Gamers_Grand_Journey dungeon boss + Black_Star
+- Legendary Gacha Token EX from A_Gamers_Grand_Journey Ch1 (delayed to earned) + Game of Monsters
+- Phoenix Flame legendary skill from A_Gamers_Grand_Journey + Burn_Like_A_Dragon_Rise + The_Art_of_Burning
+- B-rank promotion, 750 points from Isekai_Theater + Rig_the_Game_Royal
+- Party loot gold from Abusing Tropes market
+# Chapter 23: Aftermath - B-Rank
+
+We were B-rank now, Level 24 average, house at 12 Guild Row, 745 silver, Phoenix Flame legendary.
+
+We celebrated in tavern, but also had to deal with aftermath of dungeon: Old Fort now cleared, core retrieved, dungeon will fade in weeks, fort can be rebuilt as outpost.
+
+Guild offered us deed to fort outpost for 100 silver, as B-rank privilege.
+
+We bought.
+
+```
+[Property Deed - Outpost]
+Owner: Party Iron Petal
+Location: Old Fort (Now Iron Petal Outpost)
+Price: 100 Silver
+Remaining: 745 - 100 = 645 Silver
+```
+
+Outpost: small fort, walls, courtyard, can be base for future jobs, maybe shop.
+
+We visited next day, cleaned, like apartment trash pit again.
+
+Brann said, "My clan could use outpost as forge outpost, send iron."
+
+Lyra: "My family could use outpost as safe point between farm and city."
+
+Elara: "I can heal travelers here for copper."
+
+I: "We can have second base."
+
+We fixed walls, using ID? No, real work, SP draining.
+
+```
++50 END EXP
+```
+
+After, we returned to city, guild had new board: B-rank jobs, regional.
+
+But also politics: Merchant House Lorn wants dungeon rights, as in roadmap.
+
+Selene said, "House Lorn wants Old Fort dungeon core rights, but you cleared, you have rights. They offer 200 silver for core rights, or they will contest."
+
+200 silver, but we already have core, and outpost. If we sell rights, we lose future dungeon spawns.
+
+We declined, pragmatic.
+
+House Lorn not happy.
+
+That evening, Lyra and I at lake, our spot, now B-rank, house, outpost, 645 silver.
+
+"Kael, we have house, outpost, B-rank, 645 silver. What's next? A-rank?"
+
+"B-rank is good for now. Next arc is politics, Ink and Iron, we need to handle House Lorn."
+
+"And us? Affection 80, romantic committed, but not yet... married?"
+
+"Slow-burn, mature. We are partners, we have house, we have future. Marriage is paper, but we can if you want, long term."
+
+"I want long term. Not now, but later. After B-rank stable, after we handle House Lorn."
+
+"Good."
+
+```
+Affection: 85/100 (Romantic - Committed - Future)
+```
+
+We kissed, longer, at lake, moon.
+
+We walked back, hand in hand.
+
+Brann and Elara at house, cooking, like family.
+
+We had family now, not just party.
+
+We saved.
+
+Arc 3 complete.
+
+Next: Arc 4 Ink and Iron, politics, House Lorn, guild war, dungeon break.
+
+---
+**Resource Notes:**
+- Outpost deed, fort rebuilding, cleaning from The_Hobbit + Ghost_in_the_City apartment + Borne_of_Caution base building
+- Merchant House Lorn wants dungeon rights from Dost_Thou_Even_Steal intrigue + Ace_In_The_Hole negotiation + Yakuza faction
+- B-rank privileges, property, shop from Ace_In_The_Hole + Rig_the_Game_Royal + Sneaking...
+- Lake talk, future, marriage slow-burn from enchanting melody + wandering melody + Borne_of_Caution family
+- Affection 85 from enchanting melody mechanics
+- Party as family from Borne_of_Caution + Ghost_in_the_City
