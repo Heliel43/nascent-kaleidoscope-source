@@ -3311,3 +3311,353 @@ Next: Arc 3 The Deep, bigger dungeon, legendary token, but for now, rest in our 
 - Lake kiss, mature confession, not anime trope from enchanting melody + wandering melody slow-burn + Borne_of_Caution
 - Affection 72 from enchanting melody mechanics
 - Base building from Borne_of_Caution + Ghost_in_the_City
+<<<<<<< HEAD
+=======
+# Chapter 19: The Deep - Old Fort Floor 2
+
+We had house, C-rank, party of four. Next step: B-rank needed 500 promotion points, we had 100. Need bigger jobs.
+
+Guild board had C-rank dungeon: Old Fort Floor 2 (Basement Deep), previously locked, now opened after we cleared chieftain. Rumors of orc shaman, goblin lord.
+
+Pay: 30 silver each, plus loot 50% to party.
+
+We took it.
+
+Old Fort Floor 2 was deeper than basement we cleared. Stone walls, but older, carved with faded sigils. Like in Tensura, where there are all sorts of monsters and demi-humans out there, Dragons, Daemons, Angels, Spirits, Vampires, Dwarves, Elves, Orcs, Goblins, Ogres, Giants, basically all types of fantasy creatures. Here, orcs and goblins, plus ogre maybe.
+
+We entered, formation same: Brann front, me and Lyra middle, Elara back, Mana Light + Aura Sense.
+
+```
+[Dungeon: Old Fort Floor 2 - C Rank]
+Floors: 1 (Deep)
+Mobs: Orc Shaman, Goblin Lord, Ogre, Orc Warrior
+Boss: Goblin Lord Level 22 (Estimated)
+Status: Active, mana dense
+```
+
+First room: Orc Warriors, two, Level 14, with Orc Shaman Level 16 behind.
+
+```
+[Orc Shaman]
+Level: 16
+HP: 250
+Description: Caster, buffs orcs, fireball.
+```
+
+Shaman buffed warriors, War Cry + fire.
+
+Brann taunted warriors, took -50, Elara healed +120 (Heal LVL6).
+
+I focused shaman, Mana Edge Level 10 +30 dmg, slashed.
+
+-60 HP to shaman!
+
+Lyra shot shaman, -45.
+
+Shaman cast fireball, -70 to me, Iron Skin 12% reduc -> -61.
+
+We killed shaman, then warriors.
+
+```
+You have killed Orc Shaman LVL16 + Orc Warrior x2! 350 EXP!
+```
+
+Second room: Ogre, Level 18, big, 500 HP, club.
+
+```
+[Ogre]
+Level: 18
+HP: 500
+Weakness: Eyes, knees
+```
+
+Brann tanked, took -80, Elara healed, I flanked knees, critical -80.
+
+Lyra shot eyes, -60.
+
+We kited, ogre slow, we fast.
+
+At 100 HP, ogre enraged, smashed ground, AoE -30 to all, Elara group healed +80.
+
+We killed.
+
+```
+You have killed Ogre LVL18! 300 EXP!
+Loot: [Ogre Club - D Rank] [Gold x1]
+```
+
+Third room: Goblin Lord antechamber, goblins Level 10-12, six.
+
+We cleared efficiently, party bonus +10% EXP.
+
+```
+Party Level: Kael 20, Lyra 18, Brann 19, Elara 17
+```
+
+Boss door, stone, carved with goblin face.
+
+Lyra scouted: "Inside, Goblin Lord Level 22, plus two hobgoblin guards Level 16."
+
+We buffed: Iron Skin, Mana Edge, Scout Aura, Tank Aura, Holy Light.
+
+We entered.
+
+Goblin Lord was bigger than hobgoblin, wearing crown of bones, holding staff, smarter.
+
+```
+[Goblin Lord]
+Level: 22
+HP: 700
+Description: Leader, casts, summons goblins, has [Goblin Army] skill.
+```
+
+It cast [Goblin Army], spawned 4 goblins Level 10.
+
+Brann taunted lord, but goblins went for Elara.
+
+I intercepted, Mana Edge slashing goblins.
+
+-50 each, killed two.
+
+Lyra shot lord, -40.
+
+Elara healed Brann, who was taking -60 from lord staff.
+
+We focused lord, ignoring adds after Elara holy light killed adds.
+
+At 300 HP, lord enraged, summoned 6 goblins.
+
+"Shit, adds!" Brann shouted.
+
+We killed adds, then lord.
+
+Critical! I stabbed core, -100.
+
+Lord dissolved.
+
+```
+You have killed Goblin Lord LVL22! 500 EXP! Party Bonus!
+Loot: [Goblin Lord Crown - C Rank] [Dungeon Core Fragment - C Rank] [Gold x2] [Skill Book: Firebolt]
+Level Up! Kael 21, Lyra 19, Brann 20, Elara 18
+```
+
+Skill Book: Firebolt! Rare, fire damage, needed for slime weakness.
+
+We looted, returned.
+
+Selene: "Clear time 5 hours, fast. Promotion points 150 each. Total 250/500 to B-rank."
+
+Pay: 30 silver each + loot: Gold x3 = 300 silver = 75 silver each + core fragment 20 silver = 10 silver each + crown 50 silver = 12.5 each.
+
+```
+Money: 143 Silver + 30 + 75 + 10 + 12 = 270 Silver
+```
+
+Rich, house paid, extra.
+
+That night, we learned Firebolt from book. I tried.
+
+```
+Skill Unlocked! [Firebolt LVL1] - Cost 20 MP, Damage 50 + MAG*2, Weakness: Slime, Undead
+```
+
+Finally, fire.
+
+We saved.
+
+Next: mid-boss deeper, maybe B-rank test.
+
+---
+**Resource Notes:**
+- Old Fort Floor 2, orc shaman, goblin lord, ogre, all types fantasy creatures from Tensura + Game of Monsters + Duelist + Black_Star
+- Combat: Taunt, Iron Skin, Mana Edge, Group Heal, adds, enrage from Game of Monsters + Ace_In_The_Hole + Ghost_in_the_City
+- Skill Book Firebolt from A_Gamers_Grand_Journey + Game of Monsters
+- Promotion points from Isekai_Theater + Sneaking...
+- Party bonus from Game of Monsters
+# Chapter 20: Mid-Boss - Hobgoblin Lord
+
+We had Firebolt now, Level 1, 50 damage + MAG*2 (MAG 35 now, so 50+70=120 damage), cost 20 MP. Good for slime, undead.
+
+Guild had job: Old Fort Floor 2 Secret Room - Hobgoblin Lord Level 25, mid-boss for B-rank test prep. Pay 40 silver each.
+
+We took, party of four, Level 21 average.
+
+Secret room was behind goblin lord room, hidden door Lyra found via Scout Aura Level 4 (20m sense, hidden doors).
+
+Inside, bigger cavern, old forge, anvil cracked like Brann's clan.
+
+And Hobgoblin Lord, Level 25, bigger than chieftain, armor better, axe bigger, plus two orc shamans Level 16.
+
+```
+[Hobgoblin Lord]
+Level: 25
+HP: 900
+Description: Mid-boss, has [War Cry], [Cleave], [Enrage]
+```
+
+We buffed, entered.
+
+Brann taunted lord, took -80, Elara healed +150 (Heal LVL6+).
+
+I focused shaman first, Firebolt!
+
+-120 HP to shaman! Super effective vs orc? No, but fire good.
+
+Lyra shot shaman, -50, shaman died.
+
+Second shaman, same, died.
+
+Now lord alone, but enraged at shaman death, War Cry + Cleave.
+
+Cleave: AoE axe swing, -60 to all, Elara group healed +80, net +20.
+
+We kited, lord slow but hits hard.
+
+At 500 HP, lord used Enrage, +20% damage, -10% defense.
+
+We focused, I Mana Edge + Firebolt combo.
+
+Mana Edge slashes -60, Firebolt -120, Lyra -50, Brann -70.
+
+At 100 HP, lord used final Cleave, -80 to all, Brann at 50 HP, Elara low MP.
+
+Elara used last MP Group Heal +80, Brann to 130.
+
+I critical stabbed core, -150.
+
+Lord dissolved.
+
+```
+You have killed Hobgoblin Lord LVL25! 700 EXP! Party Bonus!
+Loot: [Hobgoblin Lord Axe - C Rank] [Dungeon Core Fragment - C Rank+] [Gold x3] [Skill Book: Iron Skin II]
+Level Up! Kael 22, Lyra 20, Brann 21, Elara 19
+```
+
+Skill Book Iron Skin II: upgrades Iron Skin to 15% reduc base.
+
+I learned, Brann learned.
+
+```
+[Iron Skin LVL7 -> Iron Skin II LVL1] 15% reduc
+```
+
+We returned, Selene: "Mid-boss clear, promotion points 200 each, total 450/500 to B-rank. One more job for B-rank test."
+
+Pay: 40 silver each + loot: Gold x3 = 300 silver = 75 each + core 30 silver = 15 each + axe 80 silver = 20 each.
+
+```
+Money: 270 + 40 + 75 + 15 + 20 = 420 Silver
+```
+
+We could buy bigger house, but we liked ours.
+
+That night, we trained Firebolt in ID, leveled to LVL3 (damage 70+MAG*2).
+
+```
+[Firebolt LVL1 -> LVL3]
+```
+
+Brann's clan anvil: he now had 100 silver, could buy anvil, but decided to stay until B-rank, then go back with extra to help clan more.
+
+Lyra's farm: fully safe, plus extra for tools, she sent 20 silver home.
+
+Elara's clinic: she healed poor for free 3 days a week, rent covered.
+
+Party solid.
+
+Next: B-rank test, but first, injury.
+
+---
+**Resource Notes:**
+- Hobgoblin Lord Level 25, War Cry, Cleave, Enrage, shaman adds from Game of Monsters + Duelist + Black_Star + Tensura
+- Firebolt combo, Iron Skin II from A_Gamers_Grand_Journey skill books + Game of Monsters
+- Secret room, hidden door via Aura Sense from Borne_of_Caution + Ghost_in_the_City
+- Forge anvil cracked like Brann's clan from Yakuza + The_Hobbit
+- Promotion points from Isekai_Theater
+- Debt fully resolved, sending money home from Borne_of_Caution + enchanting melody
+# Chapter 21: Injury and Recovery
+
+We pushed too hard. B-rank test was next week, but we took extra job: escort ore again, but this time orc ambush, Level 20 orcs, 4.
+
+We cleared, but Brann took -120, Elara healed, but I took -100, Lyra -80.
+
+We returned, but I felt... not HP loss, but real ache. Gamer's Body says injuries become HP loss, but at high damage, maybe not fully?
+
+I checked status: HP 300/1300, but also [Minor Fracture - Left Arm] debuff.
+
+```
+Debuff: Minor Fracture - Left Arm
+Effect: -10% STR, -20% Sword Proficiency, heals in 3 days or with [Greater Heal]
+Description: Gamer's Body has limits. High damage can cause debuffs.
+```
+
+First time Gamer's Body limit shown, from Ghost_in_the_City where Motoko had muscle pain that would put her out of commission for days, and from Faith_for_the_second_run injury.
+
+Elara tried Heal LVL6, healed HP to 800, but fracture remained.
+
+"Need Greater Heal, Level 10 Heal, or 3 days rest," she said.
+
+We had B-rank test in 5 days, so 3 days rest okay, but we lose training time.
+
+Lyra was worried, first time she showed worry openly, not pragmatic.
+
+"You should rest," she said, sitting by my bed in our house, holding my good hand. "Don't do pushups."
+
+"I won't."
+
+"I mean it. Your Gamer Body is not invincible. Even in Ghost_in_the_City, she had to rest, take time, not just sleep 2 hours."
+
+She referenced another story? No, she meant my habit.
+
+I rested. Day 1, no ID, just reading mana manual, which said magic channels can be damaged if overused, need rest.
+
+Day 2, fracture still, -10% STR, but HP full.
+
+Lyra brought food, Elara checked, Brann told dwarf stories of forge injuries.
+
+Day 3, fracture gone.
+
+```
+Debuff Removed! Minor Fracture Healed!
+```
+
+I was full.
+
+We used remaining 2 days to train lightly, no hard ID, just theory, mana control.
+
+```
+[Mana Control LVL7 -> LVL8]
+[Aura Sense LVL4 -> LVL5] Range 30m
+```
+
+B-rank test was Old Fort Floor 3, newly opened, Level 22-26 mobs, boss Level 28 estimated.
+
+We were Level 22 average, ready.
+
+But before test, Lyra and I had talk at lake, our spot.
+
+"Kael, when you got fracture, I... I realized I don't want partner who dies. Not just party, but... you. I want us to be more than Iron Petal."
+
+"We are more," I said. "We are 72 affection, close romantic, but not yet..."
+
+"We are 78 now," she said, checking? System didn't show her, but she felt.
+
+We kissed again, longer, mature, not anime, just... two people who trust each other, who have house, who cleared debts, who have future.
+
+```
+Affection: 80/100 (Romantic - Committed)
+```
+
+We walked back, hand in hand, Brann and Elara saw, smiled.
+
+Party ready for B-rank.
+
+---
+**Resource Notes:**
+- Minor Fracture debuff, Gamer's Body limits, 3 days rest from Ghost_in_the_City muscle pain + Faith_for_the_second_run injury + Borne_of_Caution injury
+- Healing, Greater Heal need from enchanting melody healing + Borne_of_Caution potion
+- Rest, reading manual, channels damaged from enchanting melody theory + Ghost_in_the_City rest
+- Worry, caring dialogue from Ghost_in_the_City (Hiromi/Jun) + enchanting melody + Borne_of_Caution Vulpix caring
+- Lake talk, affection 80 from wandering melody + enchanting melody slow-burn
+- B-rank test prep from Isekai_Theater + Game of Monsters
+>>>>>>> 90f97cc (Arc3 The Deep Ch19-21 - Old Fort Floor2, Hobgoblin Lord 25, Injury & Recovery, Affection 80 - 26k words)
