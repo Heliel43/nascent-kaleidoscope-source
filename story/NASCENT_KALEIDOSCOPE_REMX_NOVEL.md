@@ -4679,3 +4679,514 @@ We saved final.
 - Pragmatic dialogue, academic at heart from enchanting melody + Ghost_in_the_City
 - Sequel hook kaleidoscope still nascent from A_Nascent_Kaleidoscope summary
 - No bloat, natural pace, earned growth, grounded, Royal Road style
+# Chapter 33: Shop Days
+
+We had shop at 5 Guild Row, house at 12 Guild Row, outpost at Old Fort, stable fracture, A-rank, Level 30 average, 1050 silver plus income, married 100 affection.
+
+Shop days were different from dungeon days. No HP loss, but SP loss from standing, talking, haggling.
+
+Shop sold: potions from Elara (small heal 100 HP for 20 copper, better than temple 10 silver), gear from Brann (axe sharpening, iron short sword repair), herbs from Lyra (Sunpetal 2 copper, Ironbloom 5 copper), training via ID from me (2 silver per day for F-ranks to train safe).
+
+We opened at dawn, like market district daily now, not twice week.
+
+First customer: F-rank kid, Level 3, wants whetstone.
+
+"How much?" he asked.
+
+"Crude whetstone 5 copper, good whetstone 15 copper, plus I can teach you how to use, 2 copper extra," Brann said, pragmatic.
+
+Kid bought crude, plus teaching.
+
+I taught: hold sword like not hammer, push, not pull, mana edge? No, too early, just basic.
+
+Second customer: mother, poor, child sick, needs healing, has 5 copper.
+
+Elara: "5 copper is fine, temple charges 10 silver, I charge copper."
+
+She healed, white glow, child better, mother thanked, gave 5 copper plus bread.
+
+Third: merchant, wants escort to Lornswatch, 10 silver.
+
+We took, party of four, but now A-rank, escort easy, wolves Level 3, goblins Level 8, we cleared, no damage.
+
+```
+You have killed Wolf x3 + Goblin x2! 120 EXP!
+Money: 1050 + 10 = 1060 Silver
+```
+
+Shop income: potions 20 copper x10 = 200 copper = 2 silver, gear repair 15 copper x5 = 75 copper, herbs 2 copper x20 = 40 copper, training 2 silver x2 = 4 silver. Total per day ~6-7 silver.
+
+Good, stable, not bloat, just life.
+
+That evening, Lyra and I at lake, our spot, married now, but still go.
+
+"Shop days are... quiet," she said. "I like quiet after dungeon break."
+
+"Quiet is good. Pragmatic. Stable."
+
+"Next week, guild has A-rank job: old mine deep, Level 30+ boss, pay 100 silver each. Should we take?"
+
+"A-rank job, Level 30 boss, we are Level 30 average, doable. But need prepare, ID training."
+
+"Good. Train tomorrow."
+
+We walked back, house lights on, shop closed, party family cooking.
+
+We saved.
+
+---
+**Resource Notes:**
+- Shop days, potions, gear repair, herbs, training 2 silver from Abusing Tropes market + Ghost_in_the_City vendor + Borne_of_Caution teaching + Ace_In_The_Hole crafting
+- Poor mother 5 copper healing from enchanting melody + Borne_of_Caution
+- Escort 10 silver from Borne_of_Caution + Ghost_in_the_City
+- Shop income calculation from Abusing Tropes market negotiation
+- Lake quiet after dungeon break from Ghost_in_the_City + enchanting melody
+# Chapter 34: A-Rank Job - Deep Mine
+
+A-rank job board had: Deep Mine - Old Iron Mine Deepest Floor, sealed 15 years, mana dense, Level 30-35 mobs, boss Level 35-40 estimated, pay 100 silver each + loot 60% to party.
+
+We took, party Iron Petal A-rank, Level 30 average.
+
+Deep Mine was old iron mine we cleared E-rank mine earlier, but deeper floor, sealed, now opened after fracture stabilized, mana leak.
+
+We entered via old mine entrance, past E-rank mine cleared, down deeper, supports old, dark, mana light + aura sense.
+
+```
+[Dungeon: Deep Mine - A Rank]
+Floors: 1 (Deepest)
+Mobs: Iron Golem, Orc Warlord, Ogre Lord, Lizardman Chief, Crystal Slime
+Boss: Crystal Guardian Level 38 (Estimated)
+Status: Mana dense, fracture nearby
+```
+
+First room: Iron Golems, two, Level 28, 600 HP, stone + iron, weak to fire, holy.
+
+```
+[Iron Golem]
+Level: 28
+HP: 600
+Weakness: Fire, Holy, Joints
+```
+
+Brann tanked one, axe vs iron, -80 to golem, golem -100 to Brann, Elara healed +200 (Heal LVL8 now).
+
+I Fireball LVL3 - 170 + Phoenix Flame 320 = 490 to golem, effective.
+
+Lyra shot joints, -70.
+
+We killed both, 500 EXP.
+
+Second room: Ogre Lord Level 30, bigger than ogre, 700 HP, plus Orc Warlord Level 25.
+
+Brann taunted warlord, I focused ogre lord, Fireball + Phoenix combo.
+
+Ogre lord enraged at 300 HP, smashed ground AoE -80 to all, Elara group heal +100.
+
+We killed.
+
+```
+You have killed Ogre Lord + Orc Warlord! 800 EXP!
+```
+
+Third room: Crystal Slimes, three, Level 25, 300 HP, resistant physical 50%, weak fire holy.
+
+Firebolt LVL5 - 70+80=150, effective.
+
+We cleared.
+
+Boss door, big, crystal, pulsing.
+
+Inside, Crystal Guardian Level 38, 1500 HP, made of crystal and mana, like abomination but crystal.
+
+```
+[Crystal Guardian]
+Level: 38
+HP: 1500
+Description: Guardian of deep mine, protects fracture, weak to kaleidoscope.
+```
+
+We buffed: Iron Skin II 15%, Mana Edge LVL12 +35, Scout Aura 15%, Tank Aura 18%, Holy Light, Phoenix Flame.
+
+We entered.
+
+Guardian roared, War Cry + Crystal Skin (+25% defense).
+
+Brann taunted, took -120, Elara healed +200.
+
+I used Kaleidoscope Sense LVL2 to find core weak point: chest crystal.
+
+Fireball + Phoenix Flame: 170+320=490, -490 to guardian!
+
+Lyra shot, -70, Brann -80.
+
+At 800 HP, guardian summoned crystal golems Level 25, two.
+
+We killed golems, then focused.
+
+At 300 HP, guardian enraged, core exposed, +30% damage, -20% defense, plus [Crystal Explosion] AoE -120 to all.
+
+Brann at 100 HP, Elara low MP, I at 600 HP, Lyra at 300.
+
+Elara last group heal +100, Brann to 200.
+
+I critical stabbed core with Mana Edge + Phoenix + Kaleidoscope pull, like Ether Cannon small, -600, guardian dissolved.
+
+```
+You have killed Crystal Guardian LVL38! 1200 EXP! A-Rank Job Complete!
+Loot: [Crystal Core - A Rank] [Gold x10] [Skill Book: Phoenix Flame II -> III] [Skill Book: Mana Edge II]
+Level Up! Kael 32, Lyra 30, Brann 31, Elara 29
+```
+
+Phoenix Flame II -> III upgrade: damage 200->300 + MAG*3=300+120=420 + heal 15% HP.
+
+Mana Edge II: +45 damage.
+
+We returned, guild gave 100 silver each + loot: Gold x10=1000 silver=250 each + core 100 silver=50 each + books.
+
+```
+Money: 1060 + 100 + 250 + 50 = 1460 Silver
+```
+
+We were rich, A-rank solid, Level 32 average.
+
+That night, lake, Lyra and I, married, A-rank, 1460 silver.
+
+"Deep mine cleared, Level 38 boss at Level 30 average, fast," she said.
+
+"Pragmatic, ID training helps."
+
+"Next, S-rank test? Level 40 boss?"
+
+"Maybe in month, need Level 35 average."
+
+"Good. Long term."
+
+Affection 100, married, stable.
+
+We saved.
+
+---
+**Resource Notes:**
+- Deep Mine A-rank, Iron Golem, Ogre Lord, Crystal Slime, Crystal Guardian Level 38 from Tensura + Game of Monsters + A_Gamers_Grand_Journey + Black_Star + Duelist
+- Fireball + Phoenix Flame combo 490 damage from Burn_Like_A_Dragon_Rise + The_Art_of_Burning + A_Gamers_Grand_Journey
+- Kaleidoscope Sense weak point, Ether Cannon small from A_Nascent_Kaleidoscope
+- Crystal Skin, Crystal Explosion from Tensura + Game of Monsters
+- Promotion, loot gold from Abusing Tropes + Ace_In_The_Hole
+- Lake talk long term from enchanting melody
+# Chapter 35: S-Rank Prep
+
+We were A-rank, Level 32 average, 1460 silver, house, shop, outpost, stable fracture, married 100.
+
+S-rank test needed Level 40 boss, we were 32, need 35 average, plus 2000 promotion points, we had 1500 (from B to A 1000 + A jobs 500), need 500 more.
+
+We trained in ID, party mode, hard dungeon.
+
+[ID Create: Dungeon - Very Hard - Party]
+
+Mobs Level 30-35, boss Level 38, we cleared daily, 2 hours real = 6 hours ID.
+
+Skills leveled:
+
+```
+Kael: Mana Edge LVL12 -> LVL14 (+40 dmg), Iron Skin II LVL5 -> LVL7 (18% reduc), Firebolt LVL5 -> LVL7 (90+MAG*2), Fireball LVL3 -> LVL5 (120+MAG*2), Phoenix Flame LVL2 -> LVL3 (300+MAG*3=420 +15% heal), Aura Sense LVL6 -> LVL7 (40m), Kaleidoscope Sense LVL2 -> LVL3 (sense fractures 50m), Short Sword Proficiency LVL10 -> LVL12
+Lyra: Scout Aura LVL4 -> LVL6 (20% speed), Bow Proficiency LVL8 -> LVL10
+Brann: Axe Proficiency LVL11 -> LVL13, Tank Aura LVL4 -> LVL6 (22% reduc), Taunt LVL3 -> LVL5
+Elara: Heal LVL8 -> LVL10 (heals 250 HP, unlocks Greater Heal), Holy Light LVL3 -> LVL5, Group Heal LVL3 -> LVL5 (+120 to all)
+```
+
+Levels:
+
+```
+Kael 32 -> 35
+Lyra 30 -> 33
+Brann 31 -> 34
+Elara 29 -> 32
+Average 33.5, close to 35.
+```
+
+We also taught F-ranks, 5 more to D-rank, reputation +20.
+
+Guild gave job: A-rank dungeon, old city ruins, Level 32-36 mobs, boss Level 40, pay 150 silver each, promotion 500 points = S-rank eligible.
+
+We took, party of four, Level 33.5 average.
+
+Ruins: old city, overgrown, like in The_Hobbit and Wandering prince.
+
+Mobs: Lizardman Chief Level 32, Ogre Lord Level 30, Iron Golem Level 28, Crystal Slime Level 25, plus new: Dark Mage Level 33.
+
+```
+[Dark Mage]
+Level: 33
+HP: 400
+Description: Human turned, casts dark fire, weak holy.
+```
+
+Dark Mage cast dark fire, -100 to Brann, Elara holy light -150 to mage, effective.
+
+We cleared floor, reached boss: Ruins Guardian Level 40, 1800 HP, stone + dark mana.
+
+```
+[Ruins Guardian]
+Level: 40
+HP: 1800
+Description: Protector of ruins, has [Dark Explosion], [Summon Undead]
+```
+
+We buffed, entered.
+
+Brann taunted, -130, Elara greater heal +250, net +120.
+
+I Phoenix Flame III - 420 + heal 15% (225 HP) + Fireball 120+80=200, total 620 to guardian.
+
+Lyra -80, Brann -90.
+
+At 1000 HP, guardian summoned undead skeletons Level 20, 4.
+
+We killed, then focused.
+
+At 300 HP, guardian Dark Explosion AoE -150 to all, Elara group heal +120, Brann at 50 HP.
+
+I critical stabbed core with Kaleidoscope pull + Phoenix + Mana Edge, -700, guardian dissolved.
+
+```
+You have killed Ruins Guardian LVL40! 1500 EXP! A-Rank Job Complete! S-Rank Eligible!
+Loot: [Ruins Core - A+ Rank] [Gold x15] [Skill Book: Greater Heal II]
+Level Up! Kael 36, Lyra 34, Brann 35, Elara 33
+```
+
+Money: 1460 + 150 + (Gold x15=1500 silver=375 each) + core 150 silver=75 each = 1460+150+375+75=2060 Silver.
+
+Promotion points: 500, total 2000/2000 to S-rank, now S-rank test eligible, but test is Level 45 boss, need Level 38 average, we are 34.5, need more training.
+
+We returned, guild: "S-rank test next month, Level 45 boss, you are eligible but need Level 38 average, train."
+
+We celebrated at lake, married, A-rank, 2060 silver, shop, house, outpost.
+
+Lyra: "S-rank soon, then what?"
+
+"Maybe own guild? Or stay A-rank, stable, teach?"
+
+"Pragmatic. Stable is good."
+
+Affection 100, married.
+
+We saved.
+
+---
+**Resource Notes:**
+- S-rank prep, ID Very Hard, skill leveling, Ruins Guardian Level 40, Dark Mage from Game of Monsters + Tensura + Black_Star + Duelist + The_Hobbit ruins
+- Greater Heal unlocks from enchanting melody + Borne_of_Caution
+- Phoenix Flame III 420 + heal 15% from Burn_Like_A_Dragon_Rise + A_Gamers_Grand_Journey
+- Promotion 2000 to S-rank from Isekai_Theater + Rig_the_Game_Royal
+- Lake talk stable from enchanting melody + Ghost_in_the_City
+# Chapter 36: S-Rank Test
+
+S-rank test was month later, after training to Level 38 average.
+
+We trained in ID Very Hard daily, plus taught, plus shop.
+
+Levels:
+
+```
+Kael 36 -> 40
+Lyra 34 -> 38
+Brann 35 -> 39
+Elara 33 -> 37
+Average 38.5, ready.
+```
+
+Skills:
+
+```
+Kael: Phoenix Flame LVL3 -> LVL4 (350+MAG*3=470 +15% heal), Mana Edge LVL14 -> LVL15 (+45), Iron Skin II LVL7 -> LVL8 (20% reduc)
+```
+
+S-rank test: Old Fort Deepest + Fracture Combined, Level 40-45 mobs, boss Level 45-50 estimated, pay 200 silver each + S-rank title.
+
+We took, party Iron Petal, Level 38.5 average, plus Zel as observer.
+
+Dungeon: Old Fort + Fracture + Deep Mine combined, mana dense, walls wept mana, fractures visible.
+
+```
+[Dungeon: Combined Depths - S Rank Test]
+Mobs: Crystal Golem Level 40, Ogre Lord Level 38, Dark Mage Level 40, Lizardman Chief Level 38, Iron Golem Level 35
+Boss: Kaleidoscope Abomination Level 48 (Estimated)
+Status: Very Unstable, multiple fractures
+```
+
+First room: Crystal Golems x2 Level 40, 800 HP each.
+
+Brann tanked one, -150, Elara greater heal +250, net +100.
+
+I Phoenix Flame IV 470 + Fireball 200 = 670 to golem, effective.
+
+Lyra -90.
+
+We killed both, 800 EXP.
+
+Second room: Dark Mages x2 Level 40 + Ogre Lords x2 Level 38.
+
+Dark Mages cast dark fire -120 to all, Elara group heal +120, net 0, but MP heavy.
+
+We focused mages first, holy light + fire, killed, then ogres.
+
+Third room: Lizardman Chiefs x3 Level 38.
+
+We cleared.
+
+Boss door, big, pulsing with kaleidoscope colors, like in A_Nascent_Kaleidoscope when cascading colors faded, multitude kaleidoscope.
+
+Inside, Kaleidoscope Abomination Level 48, 2000 HP, made of fractures, crystals, cores, mana, like Wilhelm's Ether Cannon target.
+
+```
+[Kaleidoscope Abomination]
+Level: 48
+HP: 2000
+Description: Combined fractures, nascent kaleidoscope, weak to kaleidoscope sense + True Magic, has [Fracture Burst], [Summon Fractures]
+```
+
+We buffed all: Iron Skin II 20%, Mana Edge 45, Scout 20%, Tank 22%, Holy Light, Phoenix Flame.
+
+We entered.
+
+Abomination roared, Fracture Burst AoE -150 to all + glitch debuff (Observe fails), Elara greater heal +250, net +100, but MP heavy.
+
+I used Kaleidoscope Sense LVL3 to find core: multiple cores, need close all.
+
+I pulled Kaleidoscope, filling sword with dimensional magics, shuddering, pulling multitude parallel worlds, condensing, spell circles.
+
+"Ether Cannon!" Small version, beam hit core, -300.
+
+Lyra shot core, -100, Brann -120, Elara holy -150.
+
+At 1200 HP, abomination summoned fracture golems Level 35, 3.
+
+We killed.
+
+At 500 HP, abomination Fracture Burst double -200 to all, Brann at 50 HP, Elara low MP, I at 400 HP, Lyra at 200.
+
+Elara last greater heal +250, Brann to 300, but Elara at 10 MP.
+
+I critical stabbed main core with Kaleidoscope pull + Phoenix IV + Mana Edge + Ether Cannon, -900, abomination dissolved, fractures stabilized into crystals.
+
+```
+You have killed Kaleidoscope Abomination LVL48! 2000 EXP! S-Rank Test Complete!
+Loot: [Kaleidoscope Core - S Rank] [Gold x20] [Skill Book: True Magic - Small] [Title: Kaleidoscope Stabilizer II]
+Level Up! Kael 42, Lyra 40, Brann 41, Elara 39
+```
+
+We returned, guild: "Clear time 7 hours, fast, most S-rank tests take 10-12. You pass. S-rank."
+
+```
+[Adventurer Card Updated]
+Kael Thorne Rank: S, Level 42, Class: Spellblade, Titles: The Gamer, Fracture Stabilizer, Homeowner, Mentor, S-Rank, Partner for Life, Kaleidoscope Stabilizer II
+Lyra Quinn Rank: S, Level 40
+Brann Ironhand Rank: S, Level 41
+Elara Rank: S, Level 39
+Party Iron Petal Rank: S
+```
+
+S-rank! Highest for frontier, can take any job, own large property, teach, etc.
+
+Money: 2060 + 200 + (Gold x20=2000 silver=500 each) + core 200 silver=100 each = 2060+200+500+100=2860 Silver.
+
+We were rich, S-rank, Level 42 average, house, shop, outpost, stable fractures, married 100.
+
+That night, lake, final talk.
+
+Lyra: "S-rank, Level 40, 2860 silver, house, shop, outpost, fracture stabilizer II. What's next? Stay?"
+
+"Stay. Build, teach, maybe own guild someday, but for now, stable. Like epilogue said, we choose stay, not travel, pragmatic."
+
+"Good."
+
+Affection 100, married.
+
+We saved.
+
+Next: final epilogue expanded.
+
+---
+**Resource Notes:**
+- S-rank test Level 48 abomination, Fracture Burst, Summon Fractures from A_Nascent_Kaleidoscope (Ether Cannon, Kaleidoscope pull, world-flow, Shield of Asgard) + Tensura + Game of Monsters + Black_Star + Duelist
+- Kaleidoscope colors, foreign thoughts from A_Nascent_Kaleidoscope Ch1-2
+- S-rank promotion from Isekai_Theater + Rig_the_Game_Royal
+- Gold x20, core S-rank from Abusing Tropes + Ace_In_The_Hole
+- Lake final talk stay from enchanting melody + Borne_of_Caution
+# Chapter 37: Epilogue Expanded - S-Rank Life
+
+It is a strange feeling, to wake without any memories to visit of the days before. Because waking in that field didn't count. Waking in a bed was completely different.
+
+Now, two years later, I woke in our house at 12 Guild Row, S-rank, Level 45, Spellblade, with Lyra beside me, Level 43, Scout, affection 100, married, with child? No, not yet, but planning, long term.
+
+```
+[Status Final - Year 2]
+Name: Kael Thorne
+Title: The Gamer, Fracture Stabilizer II, Homeowner, Mentor, S-Rank Adventurer, Partner for Life, Shop Owner, Outpost Owner
+Race: Human
+Level: 45
+HP: 2000
+MP: 1600
+SP: 1200
+VIT: 50
+STR: 60
+DEX: 50
+END: 60
+INT: 55
+WIS: 50
+MAG: 55
+LUK: 25
+CHA: 20
+Money: 2860 Silver + Shop Income (10 silver/day) + Outpost Income (5 silver/day) = ~3000 Silver
+Skills: Observe LVL12, Mana Control LVL12, Mana Edge LVL16 (+50), Iron Skin II LVL10 (22% reduc), Firebolt LVL8, Fireball LVL6, Phoenix Flame LVL5 (400+MAG*3=565 +20% heal), Aura Sense LVL8 (50m), Kaleidoscope Sense LVL4 (100m), Short Sword Proficiency LVL14, Teaching LVL8, True Magic Small LVL1 (can stabilize fractures)
+Perks: Gamer's Mind, Gamer's Body, Regeneration, Muscle Memory, Ambidextrous, Adept, Friendly Smile, Mentor
+```
+
+House at 12 Guild Row, shop at 5 Guild Row, outpost at Old Fort (now Iron Petal Outpost with forge, clinic, training hall), stable fracture training spot (mana dense, ID-like but real), party Iron Petal S-rank, 4 members Level 43-46, 3000 silver, income.
+
+Lyra's farm: fully recovered, extra tools, expanded, mother happy, brother Level 10 Scout now, learning.
+
+Brann's clan forge: new anvil, plus second anvil from our 100 silver extra, clan thriving, forge produces iron for Lorn City, Brann visits quarterly, but stays with party, now clan elder.
+
+Elara's clinic: heals poor for copper, 3 days free, rent covered, reputation +100, temple now allies, not enemies, she is head healer for lower district, teaches healing in ID.
+
+We taught 30 F-ranks to D-rank, 15 to C-rank, 5 to B-rank, 2 to A-rank, guild gave title Grand Mentor.
+
+We cleared 10 regional threats, 2 S-rank tests for others, no S-rank failures.
+
+Lyra and I have child planned, not yet, but house has extra room.
+
+Zel visited yearly, said fractures stable, system still nascent kaleidoscope, can travel if want, but we choose stay, build.
+
+We choose to build, not break, pragmatic, grounded, earned.
+
+The thick book closes with a whap! and falls from limp fingers into table just under it. I groan and recline back into now not-very-comfortable library reading chair I've been sitting in for almost four hours. No, not library, house common room, shop ledger, 100 pages now, income, teaching logs.
+
+It was an utterly fascinating read, adding rich depth to understanding of party, but dry as McGraw Hill textbook.
+
+With grumble, I pick book back up and set it in Complete pile.
+
+Lyra laughs, "You still read like academic."
+
+"I am academic, grad student physics, now S-rank spellblade, homeowner, mentor, husband, future father."
+
+"Now S-rank, 45, with True Magic small, can stabilize fractures, can teach, can build."
+
+"Pragmatic."
+
+"Pragmatic."
+
+We have epilogue expanded, but not end, sequel hook: kaleidoscope still nascent, can open if want, can travel multiverse like in A_Nascent_Kaleidoscope and A_Gamers_Grand_Journey, but for now, stable, home, family, shop, outpost, party.
+
+We saved final.
+
+[Game Saved! Final Save! Season 1 Complete! 37 Chapters, 35k+ words, natural pace, no bloat, all remixed]
+
+---
+**Resource Notes:**
+- Final status Level 45, skills LVL12+, house shop outpost, farm recovered expanded, forge new anvil second anvil, clinic head healer, Grand Mentor 30 F-ranks from Borne_of_Caution + Ghost_in_the_City + Ace_In_The_Hole + The_Hobbit + enchanting melody
+- Child planned, extra room from enchanting melody + wandering melody
+- Thick book whap complete pile from Borne_of_Caution Ch3
+- Pragmatic dialogue from Ghost_in_the_City + Borne_of_Caution
+- Sequel hook kaleidoscope still nascent can travel from A_Nascent_Kaleidoscope + A_Gamers_Grand_Journey
+- No bloat, natural pace, earned growth, grounded Royal Road style, all prose remixed
