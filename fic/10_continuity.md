@@ -1,47 +1,56 @@
 # CONTINUITY LEDGER — live; update before every chapter, from USER'S CANON first
 
-Status: **pre-ch1**. Nothing published yet; the tables below are the arc-1 opening state (post-plan, pre-draft).
+Status: **pre-ch1**, prep v2 (post-veto). Tables = arc-1 opening + planned arc-1 deltas. User rewrites override everything here.
 
-## Calendar (1:1 time flow, R11)
-| Story date | Where Eli | Beat |
+## Calendar
+**Home-world time (R11: frozen during the visit, so there are only two columns of consequence):**
+| Home date | Where Eli | Beat |
 |---|---|---|
 | Tue Sep 14 – Wed Sep 15, 2010 | BB | School opens; bathroom girl; card lands (1.0) |
-| Sep 16–26 | BB | Rules-testing weeks: Sokka-card rejection, the List, Worm-local decline (1.1–1.2) |
-| Sep 27 (Mon) | BB | Card shows Mei; arming decision (1.2 end → 1.3) |
-| Sep 28–29 | BB | Prep, entry (1.3) |
-| Sep 29 (Musutafu) | U.A. | Meet, terms, 24h clock (1.4–1.5) |
-| Sep 30 | U.A. | Duel + transfer + aftermath day (1.6–1.7) |
-| Oct 1 – Oct 8 | U.A./world | *Held in reserve — the mini-arc clause; unused days = 1.5 expansion if user's rewrite wants more world* |
-| Oct 9 (Sun, 1:40 a.m. BB) | BB | Return after truancy-cleanup beats (1.8) — **11 days out** |
-| Oct 10–31 | BB | Builds, ceiling, shop, Merchant ask (1.9); fire (1.10–1.11, **Nov 1**); petition/PRT/Coil-thread (1.12–1.13); storm night (1.14, **Nov 5–6**); window coda (1.15, **Nov 8**) |
-| ~Dec 5–12 (arc 2) | BB | **THE HAPPENING** (canon sheet; date fuzzy by design — "the first weekend of December") |
-| Late Jan 2011 (arc 2 end) | BB | **The locker** — Eli home for a make-up exam week (fanon #1 payoff) |
+| Sep 16–26 | BB | Rules weeks: Sokka-card laugh, the List, Worm-local decline (1.1–1.2) |
+| Mon Sep 27 | BB | KonoSuba card armed (1.2 close → 1.3) |
+| Tue Sep 28, 19:00 → **19:08** | Axel → BB | **The whole visit lives in the host column below**; home never moved (1.3–1.7) |
+| Sep 29 – Oct 23 | BB | Integration (1.8), culvert + PHO fallout, fire (1.9–1.10, Oct ~13), petition/outreach/Coil-letter (1.11–1.12), storm (1.13, Oct 22–23) |
+| Mon Oct 26 | BB | Coda: window, `WORM LOCAL` decline, roster page (1.15) |
+| ~Dec 5–12 (arc 2) | BB | **THE HAPPENING** (date fuzzy by design: "the first weekend of December") |
+| Late Jan 2011 (arc 2 close) | BB | **The locker** — he's in the building for a make-up exam week (fanon #1 detonation; ninety seconds, not a day) |
 
-## Eli — physical & material state at ch 0.9
-- Health: fine; sleep debt normal. **No powers. No Quirk. No trigger.** First-aid cert (2009, Red Cross). Biking legs.
-- Money: cash jar $413 (intact; $22 short of stated 435 — spent on the poncho/gloves pre-entry, ch 1.3); college account $1,900 untouched; shop job $8.25/hr Saturdays (raise pending since June — a grudge item, small, real).
-- Inventory (pack, always): first-aid kit (cheap, complete, *dated*), work gloves, headlamp, duct tape, 4-in-1, granola bars, paperback (*Stiff*, from the hospital shelf), small flashlight; notebook (the List inside, the rules page on top); phone: a Motorola brick-ish thing, no data plan at home (library wifi = his internet).
-- Post-arc-1 deltas (as planned; user rewrites override): wrist scar (L, burn, self-treated); cart blueprints in a *locked* shop drawer, not a notebook (his first security instinct — correct, and the reader should clock *why* he learned it); +$640 invoiced (shop), a "contractor" thread open; truancy record: 3 marks; Diane: knows-*something*, unspoken.
+**Host-time (Axel, ~5.7 weeks, 1:1 *there*):** Sep 28 arrival → guild registration, six-week wait she scheduled around her *toad contract* → Oct 26 duel day → rematch-dinner that night + two more days (Megumin visits on day 2; `LEAVE` at dusk on day 3). **Cooldown:** next entry unlocked **Nov 25** (home-time; 28 days from Sep 28 return — the arc-2 challenge dossier lands *before* this date in our writing schedule, per `05` governance: scoring → verification → user veto → `06b` dossier).
 
-## Who knows what (as of arc-1 close, planned)
-- **Diane:** the absence was real, the funeral was a lie, the hands changed; no power-word. **Nora:** "a friend from another country's school" (the closest he'll ever tell). **Kowalski:** the kid builds; don't ask who taught him. **Vice principal:** truancy + a signed petition he didn't want to sign. **E88 street crew (2 names TBD, keep small):** "the kid who builds things," wrong-labeled "tinker." **Glory Girl:** saw a hood. **The camera:** has the winch shot; the file it became has Eli's *back*. **Coil's network:** wants a chat, got a maybe-nothing; "looks up when flyers pass" is *not yet* in the file (that lands arc 2 — arc-1 must not show him looking at flyers).
-- **Nobody knows the system exists.** Not the PRT, not Taylor, not the Simurgh's weird interest (never confirm/deny; R15).
+## Eli — state at ch 1.0 (opening)
+- Health: fine; sleep debt normal. **No powers. No trigger.** First-aid cert (2009). Biking legs.
+- Money: jar $413 (post-prep buys: ~$22 gone on poncho/gloves *after* 1.3 — keep it *before* in the ledger as $435 minus… simplify: **$413 now, $391 after prep week**); college savings $1,900 untouched; shop $8.25/hr Saturdays, raise owed since June (grudge item).
+- Pack (always): first-aid kit (cheap, complete, dated), work gloves, headlamp, duct tape, 4-in-1, granola bars, paperback (*Stiff*), flashlight; the **notebook** (Rules page on top → the List behind it); dumb brick phone, library wifi habit. Bike: rescued steel hybrid, his everything.
+
+## Post-arc-1 deltas (planned; user rewrites override)
+- **Abilities (from Yunyun, copied at 1.6 mid-let-go):** explosion (1/day, arch-wizard class, *aim still bad*); basic/intermediate breadth (wind blade, fireball, earth wall, small light); **Heal-class magic (cuts close, bruises fade overnight, big wounds no)**; barriers (short, flinch-grade); teleport (waypoint — one set, his own garage wall; re-set costs the day's focus); mana-enhanced body (wall-level blows, 5'1"→ *he* is 5'11", the rebuild is functional not cosmetic); stealth (proficient); staff/dagger (demonstrated level, his body's version); **skill frame** (the study engine — his new superpower is *discipline*, played boring, on the page only as homework); tongues: trade + old-village ritual.
+- **Budget rule (learned 1.8):** overdraw = mana exhaustion = *bodily strength loss* (the bank's exact phrasing becomes his own scar-lesson: he sleeps through a Saturday).
+- Health after arc: sprained ankle (toad day, 1.5 — *his* only in-visit injury, 2 days, no drama); no scars, no burn (the duel's violence is *embarrassing*, not damaging).
+- Money: jar rebuilt +$40 odd jobs (BB-side), **no** shop raise yet (grudge intact); **the KonoSuba purse is gone at the gate** (1.7 gag, ledger-noted so no one "finds" gold later).
+- Social: truancy record CLEAN (no absences ever — R11); the petition passed (two bathroom locks, *not* the glory hole — fanon #11 half-win); outreach office has his *name* from the meeting he walked into voluntarily (the brave ordinary act, 1.11); "culvert pyro / train-yard hood" PHO noise; E88 "friend by flyer" mislabel, corrected once in person; Glory Girl saw a back; Armsmaster's ENE log has one line: "possible unregistered Blaster/Striker, non-hostile pattern, monitoring"; **Coil: contractor letter framed on the shop wall, unanswered.**
+- Diane: knows *something changed*, not what; the non-question at 1.10's table. Nora: "friend from another country's *boarding school*," and his new habit of counting to forty-five under his breath; **she has seen him heal a papercut on purpose, and she thinks it's the coolest secret in the world and will not tell Mom** (new thread from 1.8 — *family* stakes without tragedy: the secret is *shared*, one level deep, on purpose).
+
+## Who knows what (arc-1 close, planned)
+- **Nobody knows the system exists.** Nobody knows Axel. Nobody has the word "magic" in an official report — the PRT's working theory is **pyrokinetic blaster + minor regenerator/striker**; *wrong* in exactly the useful direction (no shards, no trigger file that fits — the "no trigger event" anomaly sits in the file like a cockroach; Armsmaster's note says "verify," and arc 2's Coil *does the verify* two chapters before the Happening).
+- KonoSuba side (all frozen-but-real for them; they don't know they were ever frozen): Yunyun — beat by a *squire* with a mud trick and a nine-count concession, plans the rematch she knows can't happen, tells the *correct* story (rare for her); Megumin — "the toad-dancer," friendship never clarified; Berosal — truce via pastry; guild master — membership offer declined, door left open ("you can always register, squire").
+- Worm-local card (1.15): declined unread — **only the system "knows,"** and it tells nobody.
 
 ## Open threads (carries)
-1. The card window — weekly; the Declined Worm-local test (1.15) is arc 2's slow fuse.
-2. Contractor rate — answered by *structure*, not a deal (see roadmap arc 2).
-3. Mei: the ad read, the testimonial, the closed door (R8) — *never* reopened by plot; *once* mentioned, arc 6, in her interlude (roadmap).
-4. `STATE: reserved — occupied line` (R14) — do not mention again before arc 5; when it returns, it returns as a *card name Eli recognizes from a different fandom* — one line, no scene.
-5. Nora's asthma in a smoke week (1.11–1.14) — paid off in 1.14 by the *nebulizer money*, not a scare; keep the scare in reserve for arc 2.
-6. The petition locks: fixed. The glory hole: still there. (The list ends where the boy does, at graduation, June 2011 — arc 4's quiet scene.)
-7. Fanon belief #1 ("a year") — *expired* Jan 2011; his reaction beats are arc 2's spine (see `04_fanon_map.md`).
+1. Cooldown → **Nov 25** entry unlock; #2 shortlist re-scored (Bumi front-runner, Mudman sleeper, Mei #3 — `05`).
+2. Contractor letter framed ≠ answered; "we admire your restraint" = Coil has *data*; his interest is *patient* (arc 2 opens on the Happening, not him).
+3. "No trigger event" anomaly — PRT monitoring file; the outreach woman's name in his phone (he never called; he *might*, arc 2).
+4. `STATE: reserved — occupied line` (R14) — mentioned **zero** times until arc 5's rule.
+5. Nora knows-and-won't-tell (pressure valve with a fuse: she's 12; she'll tell *one* person eventually; scheduled arc 4).
+6. Waypoint = garage wall. First real tactical loss will be someone standing between him and his exit teleport. (Seed for the *fire* sequel, arc 2; do not pay off in arc 1.)
+7. The KonoSuba world is *open behind the door* (R8): a future challenge can re-enter via a new target — plant this **once**, light, in 1.15's roster margin ("...could go back. New name, same town."), and never let it read as destiny.
 
-## Setups planted, payoff scheduled
-- Winch-on-the-bike (1.8) → fire rescue (1.10) → the camera (1.12) → Coil's flyer-check (arc 2).
-- Insulated gloves + "batteries" line (1.3) → duel logic (1.6) — *the prep IS the fight*; never re-explain in ch 1.6.
-- The $8.25 raise grudge → arc 2 shop-front economics.
-- "Cousin in Scranton" → the *one* arc-4 scene where the lie is used *on purpose* and we see what it cost to get fluent (dark-comedy placement: the first line of an arc, never a climax).
+## Setups planted → payoffs scheduled
+- Toad-gait drill (1.5) → the duel win (1.6) → **his entire BB stealth habit** (1.13 storm tow, arc 2's Undersiders alley miss).
+- "She has accepted nothing yet." (1.2 card line) → the *ask* (1.4) → R6 becomes his religion: he only fights people who agreed. (Arc-5 test: the rule meets a world that won't sign the waiver.)
+- Smoke pellets + porter coin (1.5) → gate confiscation (1.7 gag) → *re-bought* BB-side (1.8 — hardware-store smoke bombs, "for welding," Kowalski sells them to him and winks).
+- The forty-five-count rhythm (1.6 chant) → he taps it before every hard thing (recurring tic; payoff in 1.10's fire *as a held breath*, one beat, no caption).
+- Berosal's bite → the truce pastry → (far line, arc 6 interlude draft only if the user wants KonoSuba back — `08`).
 - Headlamp click: every arc ends on one. Don't annotate it.
 
 ## Rewrite log
-(empty — first published chapter's user version goes here verbatim-diffed; it becomes the style's source of truth over `09_style.md`)
+(empty — the user's canon version of 1.0 lands here, diffed; it outranks `09_style.md` on sight.)

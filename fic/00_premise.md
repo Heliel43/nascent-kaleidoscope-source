@@ -17,10 +17,10 @@
 - Then he fights them.
 - No time limit. He can stay in that universe as long as he wants, and can quit and return home at any point.
 - **Reward for winning:** a full copy of the character's abilities — powers, skills, knowledge, everything.
-- Roughly once a month, so it's a **growth engine**, not an ability. Each win snowballs.
+- Roughly once a month, so it's a **growth engine**, not an ability. Each win snowballs. Cadence ruling (user): **home world freezes while he's in a challenge** — stay as long as needed, return to the same minute — with a 28-day entry cooldown after return (R9/R11).
 - A challenge is a **mini arc**: Eli can browse the world, get sideways into a story, finish it, then leave. This is **not a grind fic** — it's a Worm fic where once a month a kid who thought everything was fiction gets a shot at power.
 
-**Tone:** QQ fanfiction, not generic AI voice. Learned from the resource bank (`09_style.md`). Genre-aware, logistical, funny near terrible things, no seam where the borrowed material was cut in.
+**Tone:** QQ fanfiction, not generic AI voice — and per user directive: **no forced melodrama, no manufactured losses.** Consequences are real (physical, social, practical, cooldowns), pathos is brief and never wallowed in, and no scene pays for tragedy it didn't earn. This is a *fun* serial about a serious life. Learned from the resource bank (`09_style.md`). Genre-aware, logistical, funny near terrible things, no seam where the borrowed material was cut in.
 
 **Format:** arcs of ~15 chapters; 8,000–15,000 words per chapter (exceptions allowed, reasons required); Worm-style chapter numbering/titles; interludes later.
 
