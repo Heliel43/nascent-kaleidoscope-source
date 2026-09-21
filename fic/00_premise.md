@@ -1,27 +1,18 @@
-# THE BEAT 'EM UP — premise (locked)
+# Premise
 
-**Fandom:** Worm/Parahumans (baseline canon), modified by an original power. QQ long-form serial.
+**The Beat 'Em Up.** Worm/Parahumans SI fanfic, first person (Eli), QQ register, serial-length arcs.
 
-**Protagonist:** Eli Carter, 17, Brockton Bay East End, senior at Winslow High. Starts **September 15, 2010** — over four months before Taylor Hebert triggers.
+Eli Carter, 17, Brockton Bay East End, senior at Winslow High. He has memories of a past life in which this world was fiction — specifically, Worm *as absorbed through fanfiction*, which means his "canon" is partly right, partly exaggerated, and never fully checkable. He treats that knowledge as a liability, not an edge: it tells him his city is doomed and it might be lying to him about when.
 
-**Hook:** Eli remembers a past life in which this world was fiction — *Worm*. He treats it as a burden, not a power, because (a) it's illegal-adjacent knowledge that means nothing while he's powerless, and (b) his "Worm canon" is actually **fandom memory** — fanfiction summaries, CYOA threads, half-remembered GoH arguments — so he cannot trust it. The story takes this seriously: his meta-knowledge is a map drawn by drunks. See `04_fanon_map.md`.
+His power is a monthly challenge system. He names one fictional character; he is sent into that character's world (a real, living universe somewhere); he fights them. Win, and he gets a full copy of their abilities. That's the whole mechanism — the story's engine is **what he chooses to fight, why, and what it costs him to be right or wrong about it.**
 
-**Core trait:** won't walk past a problem just because he's scared, but isn't fearless and isn't stupid. Runs from fights, toward duties. Calls the ambulance. Gets adults involved. Returns the wallet. Knows exactly how little he can do and refuses to use that as a permit. Not a paragon — impatient, judgmental, gets dragged into arguments, stubborn about unfairness in ways that cost him.
+The interesting questions are the selection questions:
+- Can he realistically win *this* fight, with *this* body, against *this* person?
+- What does the prize actually do for the life he has — not a hypothetical superhero life, his?
+- Can a guy with no ID, no money, and no training survive that world for as long as he needs?
+- What does he actually know about this character versus what fandom guessed, exaggerated, or invented?
+- What breaks in Brockton Bay when a kid comes back able to do something he shouldn't be able to do?
 
-**Background:** working-class; mother an ICU nurse at Brockton Bay General; Eli grew up in hospital waiting rooms and back halls, is comfortable with blood and other people's worst days, keeps a cheap first-aid kit in his pack not out of heroism but because *people get hurt in Brockton Bay and someone has to help*. Interested in emergency medicine; nowhere near qualified.
+Grounded, character-driven, funny, serious when it's earned. **Consequence first, melodrama never.** No manufactured trauma, no invented tragedies, no dark turns for gravitas. The world is hard enough on its own — that's what Worm is for.
 
-**Power: "The Beat 'Em Up."** A monthly, multiversal challenge system.
-- Once per week Eli may **name** one fictional character from an established IP.
-- He's teleported into that character's universe, within 200 m of the target.
-- **The target cannot be helpless on arrival** — no asleep/unconscious/incapacitated/already-fighting someone else. They must be able to defend themselves.
-- Then he fights them.
-- No time limit. He can stay in that universe as long as he wants, and can quit and return home at any point.
-- **Reward for winning:** a full copy of the character's abilities — powers, skills, knowledge, everything.
-- Roughly once a month, so it's a **growth engine**, not an ability. Each win snowballs. Cadence ruling (user): **home world freezes while he's in a challenge** — stay as long as needed, return to the same minute — with a 28-day entry cooldown after return (R9/R11).
-- A challenge is a **mini arc**: Eli can browse the world, get sideways into a story, finish it, then leave. This is **not a grind fic** — it's a Worm fic where once a month a kid who thought everything was fiction gets a shot at power.
-
-**Tone:** QQ fanfiction, not generic AI voice — and per user directive: **no forced melodrama, no manufactured losses.** Consequences are real (physical, social, practical, cooldowns), pathos is brief and never wallowed in, and no scene pays for tragedy it didn't earn. This is a *fun* serial about a serious life. Learned from the resource bank (`09_style.md`). Genre-aware, logistical, funny near terrible things, no seam where the borrowed material was cut in.
-
-**Format:** arcs of ~15 chapters; 8,000–15,000 words per chapter (exceptions allowed, reasons required); Worm-style chapter numbering/titles; interludes later.
-
-**What this fic is about:** A good-ish, competent-ish, terrified kid in the worst city on Earth learning that every cheat has a price, that fiction owes him nothing, and that "what can I actually do" is a question you have to keep answering *while it costs something*.
+Starts **September 15, 2010** — years of canon still unlit, and Eli knows the shape of that future only from fanfic.

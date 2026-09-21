@@ -1,35 +1,34 @@
-# THE BEAT 'EM UP — project control
+# THE BEAT 'EM UP — project map
 
-Worm SI fanfic, QQ-style. One chapter at a time. **User rewrites are canon.** Every chapter begins by reading back the user's version of the previous chapter and updating the continuity ledger (`10_continuity.md`) and plan before drafting new text.
+Worm SI, QQ-style serial. Eli Carter, 17, Brockton Bay; monthly multiversal fight-challenge power; fanon-poisoned meta-knowledge he can't fully trust.
 
-## File map
-| File | What it is |
-|---|---|
-| `00_premise.md` | The locked brief, verbatim-faithful, plus clarifications adopted since |
-| `01_mechanics.md` | System rules spec: what's from the brief vs. author-rulings (R-numbers, vetoable) |
-| `02_eli_carter.md` | Eli character bible: voice, family, skills, limits |
-| `03_worm_2010.md` | Researched Worm canon sheet for the start date + scheduled events the plot can use |
-| `04_fanon_map.md` | Eli's *wrong* beliefs (his Worm knowledge is fanfic-derived) — every belief needs a "when it bites" |
-| `05_target_engine.md` | The challenge-selection rubric (Eli's own), rejected-candidate log, future target roster |
-| `06_challenge_01.md` | Challenge #1 dossier: Hatsume Mei / MHA — canon-verified |
-| `07_arc1_beats.md` | Arc 1 chapter-by-chapter beats (1.0–1.15) |
-| `08_roadmap.md` | Arcs 2–6 sketches, themes, endgame shape |
-| `09_style.md` | Tone codex mined from the resource bank — quotes, do/don't, formatting |
-| `10_continuity.md` | Live ledger: dates, injuries, knowledge, open threads, setups |
+## Files (the whole project)
+| File | What it is | Authority |
+|---|---|---|
+| `00_premise.md` | What the story is | LOCKED (brief + author directives) |
+| `01_protagonist.md` | Eli — personality, background, voice, limits | LOCKED core / CURRENT details |
+| `02_power.md` | The system's rules + his target-selection philosophy | LOCKED mechanics (minimal set) |
+| `03_continuity.md` | What has actually happened; who knows what; update after each chapter | LIVE |
+| `04_current_arc.md` | The arc being written now (Yunyun) — shape, not scenes | CURRENT plan |
+| `05_idea_bank.md` | Salvaged ideas, explicitly *not* promises | POSSIBLE |
+| `06_brockton_bay_2010.md` | Worm canon reference sheet (weather, not schedule) | REFERENCE |
+| `07_writing_principles.md` | Voice and process rules — short list | LOCKED (author directives) |
 
-## Decision log
-- **2026-09-21 (prev. turn):** Agent proposed Sokka (ATLA) as first challenge target. **User vetoed — recorded as canon:** "why would mc pick fight with Sokka? All powers don't have to be active, flashy... first challenge you have to delicate, maybe look through where first will be easy and worth it? think like mc instead of author." Lesson: target choice must come from Eli's incentives (win-rate × value × survivability), never an author-cute pick. This beat is now *in-story* (Eli names a "Water Tribe strategist," the card confirms the package is worthless, he self-corrects) — see `07_arc1_beats.md` ch 2.
-- **2026-09-21:** ATLA research pass — verdict: **no reliable first win exists in the bending verse** (any competent bender outscales a baseline human; nonbenders carry no worth-stealing package). ATLA deferred to mid-game when Eli has a platform. (Also: "Wang the Firebending Instructor" failed canon verification — do not use. Fanon contamination. Meta-lesson logged in `04_fanon_map.md`.)
-- **2026-09-21:** Challenge #1 locked as **Hatsume Mei (My Hero Academia)** pending user veto. Rationale in `06_challenge_01.md`. MHA grounded in bank by *Ill-Gotten Gains*, *Dost Thou Even Steal Hearts*, *Guild of Gamers*.
-- Rulings R1–R15 in `01_mechanics.md` are **agent-settled, user-vetoable** (flagged where uncertain).
-- POV: first-person past (Eli). Chapter titles: Worm-style three words ("1.0 The First Aid Kit").
-- **2026-09-21 (veto round, user):** Three directives recorded as canon — **(1) tone: no forced melodrama or manufactured losses** (QQ fun-serial register; patched into `00`, `02`, `08`, `09` rule 0, and every beat in `07`); **(2) time flow: home world freezes during a challenge** (R11 rewritten; truancy/absence/funeral-lie beats DELETED; 28-day entry cooldown from return, `01` R9); **(3) first target = Yunyun (KonoSuba)** chosen by the user over the agent's Hatsume Mei pick, with the win built on tricks-not-brute-force and the arc permitted to *linger* without rushing or making enemies (Mei's verified dossier shelved into `05`'s carry-forward pool; the "one explosion/day + mana exhaustion" mechanic verified against the bank's own KonoSuba serial). Also R8 revised per the same pass: **one challenge per *character*; worlds stay open through new keys** — no permanent doors, no grief ledgers.
-- **2026-09-21:** Prep v1 complete — Worm-canon research pass (Worm Wiki Timeline + Endbringer attack table + Ack's Resources timeline), Mei/Hatsume canon verification (3 sources), tone mining (7 bank fics sampled), 12-file bible + Arc 1 beat map. **Chapter production begins on user go-ahead; target #1 and the R-ruling package await veto pass.**
+## Workflow
+One chapter at a time. Draft → **user rewrites → that version is canon** → update `03` from it, adjust `04` if reality moved, then next chapter. When the current arc ends, the *next* arc gets its own short plan built fresh from where the story actually stands; plans never inherit debt from old plans.
 
-## Chapter production checklist (run before EVERY chapter)
-1. Re-read user's canon version of prior chapter; diff against my draft; absorb their changes into plan + ledger.
-2. `10_continuity.md`: update date, money, injuries, who-knows-what.
-3. Check target word count 8,000–15,000; plan the entry-beat and the exit-hook.
-4. Run the style pass rules (`09_style.md`) *during* drafting, not after.
-5. Fact-check any canon beat (Worm or crossover) against `03_worm_2010.md` / `06_challenge_01.md` — if unverified, don't assert it.
-6. Draft → self-edit pass (cut 5–8% fat, kill all "as well as"s and throat-clear openers) → output.
+## Category legend used everywhere
+**LOCKED** = established canon of this fic (brief, author rulings). **CURRENT** = live working decisions; change freely, notice out loud when changed. **POSSIBLE** = idea bank; flavor, never obligation. **DISCARDED** = deleted; recoverable from git history (`ea38bde`, `b8142ef`) if ever wanted.
+
+## Rebuild log — 2026-09-21 (this file supersedes the old decision log)
+The 12-file prep (two versions deep) was collapsed into the eight files above. What happened, and the contradictions found and resolved rather than reconciled:
+1. **Time flow:** old rulings said 1:1 time *and* "budget your absences"; the author directive later froze home time during challenges. Both versions sat in the log. **Resolved: frozen. All absence/truancy/cover-story machinery deleted from the arc.**
+2. **Challenge #1:** three versions coexisted (Sokka → vetoed, left as a scored "rejection log" row; Hatsume Mei → the agent's pick, left a full shelved dossier plus roadmap slot; Yunyun → user's selection). **Resolved: Yunyun is the only active target. Mei demoted to idea bank (research archived in git). Old scoring tables, governance pipeline, "6-number" rubric, and the 85% threshold deleted — selection is characterization now (`02`).**
+3. **Future arcs:** a six-arc roadmap existed with named targets, relationships, losses, interludes, dates, and "five promises." Contradicted both the author's tone directive (it manufactured melodrama beats: a dinner-ambush, a scheduled funeral lie, "grief ledger") and the premise (agency must stay live). **Deleted. `05` holds broad directions only.**
+4. **Scheduled callbacks:** mandatory motifs (arc-ending headlamp clicks, chant-count tics), "no Chekhov idle," per-belief "when it bites" columns, setup→payoff ledgers with arc numbers, and a rule that a mystery "may not be mentioned until arc 5" — all pre-planned rhythm. **Deleted; the good individual images survived as unpromised options in `05`.**
+5. **Dates:** "Sept 14 school-opens/day-two" vs the brief's "starts Sept 15" (brief wins); prep-lead "two days" vs the ledger's "one day" (moot — precision isn't needed with frozen home time); fan-made canon dating treated as fact in places (marked (v) in `06`).
+6. **Style-guide quotas** ("one awe beat max," "fandom irony allowed once per arc," per-chapter word bans) behaved like an emotion budget. **Removed; only voice principles survive in `07`.**
+7. **Mechanics inflation:** 15 numbered rulings, most pre-empting hypothetical exploits (hostage-exit arguments, reading-script caveats, lockout justifications). **Cut to the 12 plain lines in `02`; every one prevents a real hole or exists in the brief.**
+8. **"Consequences" framing** conflated cost with tragedy (injury ledgers, moral-wound language). **Per directive: consequence ≠ suffering. The arc keeps trade-offs (budgets, labels, paperwork, one honest paragraph of self-reckoning) and nothing else.**
+
+If a contradiction ever resurfaces mid-draft: state it in `03`, pick the version the *story* already performed, and move on. Never reconcile in-document with footnotes.

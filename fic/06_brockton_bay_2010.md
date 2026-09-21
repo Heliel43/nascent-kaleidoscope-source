@@ -1,0 +1,16 @@
+# Reference — Worm canon around the start date
+
+**Purpose: don't contradict canon by accident.** Anything asserted about Worm's world gets checked here first; anything not listed gets a quick source-check before it goes on the page. (v) = fan-maintained dating, treat as fuzzy-but-usable. Sources: Worm Wiki Timeline + Endbringer attack table; Ack's Worm Resources timeline. **This is weather, not a schedule — no entry here is a plot appointment.**
+
+- Dec 23, 2009 — Simurgh attacks **Madison, WI**: first public use of tinker-tech (Haywire portals; buildings "collected"). Nine months old at ch 1; the backdrop trauma of Eli's news-watching year.
+- Summer 2010 (v) — **Nilbog / Ellisburg dome** in Maine. Everyone knows; nobody's sure of the month; don't state one.
+- **July 2010 (v)** — Coil forms the **Undersiders** (Grue, Bitch, Regent, Tattletale — Lisa Wilbourn, 15). Four months old at start. Coil has run BB's shadow economy since ~2007.
+- **Aug/Sep 2010 (v)** — **Shadow Stalker** (Sophia Hess) becomes a probationary Ward and gets shipped to a San Diego "boot camp" after school trouble. Winslow whispers say "family problems."
+- **September 2010 (v)** — Taylor Hebert (freshman, Winslow) starts keeping notes on the bullying (Emma + Madison; her friendship with Emma ended Sep 2009). Quietly social, not yet criminal.
+- **Nov/Dec 2010 (v)** — **the Happening** in BB (Labyrinth rampage, Coil manipulation). Consequences visible from here: Aegis and Gallant transfer in from Boston; Velocity becomes the Wards' face; Wards' standing sours. (Battery currently leads the local Wards.)
+- **Early 2011 (v)** — Taylor triggers (the locker). Note: fandom's habit of dating "canon's start" to *June 2011* is publication math; in-world it's mid-winter. **This specific confusion is a gift for Eli's wrong calendar** (see idea bank) — but don't lean on it until the story needs it.
+- Mar 23, 2011 (v) — Lung recruits Bakuda. — **May 15, 2011** — Leviathan attacks BB (Armsmaster crippled; Aegis, Gallant, Velocity, Kaiser + others killed; the lake). — Jun–Jul 2011 — S9 in BB; Weaver joins; Triumvirate.
+- Protectorate ENE now: Armsmaster, Miss Militia, Assault, Velocity, Triumph (on loan to Boston — v), Dauntless (v), Battery; Glory Girl + New Wave on tour; PRT ENE HQ with the Wards dorm.
+- Gangs now: Empire ~twenty capes (Kaiser, Purity — married 2008, separated 2009 (v), Hookwolf, Crusader) + hundreds of street members, recruiting openly at East End schools; drove Blasto out to Boston (Apr 2009, v). ABB = Lung's war-museum (Oni Lee long institutionalized). Merchants = the Train Yard's junkie economy, tolerated like mold.
+- Winslow: underfunded; glory-hole bathroom; PRT "Wards outreach" booths are a hallway fixture; Arcadia is the other school and the reason a lot of Winslow kids' futures are decided at sixteen.
+- Canon-law notes that bite this fic: triggers come from extremity, never by wanting (and manufacturing one is a monster's or Cauldron's trick); the Wards are *less* sinister and *more* binding than fanfic says; the Manton Effect is reflex, not policy; "tinker" classification follows the *output*, and visible non-trigger output makes people ask questions with files attached.
